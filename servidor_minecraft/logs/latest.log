@@ -146,3 +146,13 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [03:55:54] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo dark_oak_trapdoor 128
 [03:59:50] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo stripped_dark_oak_log 150
 [04:06:56] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo spruce_log
+[04:07:48] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo honeycomb 3
+[04:08:26] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo beehive 38
+[04:09:01] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo smooth_quartz 36
+[04:09:35] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo stripped_spruce_wood 23
+[04:12:13] [Server thread/INFO]: Min_Chulo issued server command: /home
+[04:13:22] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo end_rod 8
+[04:13:33] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo birch_trapdoor 7
+[04:13:45] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo chiseled_bookshelf 4
+[04:25:54] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo stripped_spruce_wood 1
+[04:27:09] [Server thread/INFO]: Min_Chulo issued server command: /trash
