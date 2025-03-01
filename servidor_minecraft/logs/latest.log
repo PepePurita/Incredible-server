@@ -154,3 +154,4 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [05:29:42] [Server thread/INFO]: Min_Chulo issued server command: /trash
 [05:31:00] [Async Chat Thread - #0/INFO]: [Not Secure] Papu Min_Chulo: ec
 [05:31:04] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[05:41:09] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo mangrove_trapdoor 2
