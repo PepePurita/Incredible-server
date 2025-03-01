@@ -141,3 +141,9 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [04:51:13] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 9b9c136d-e758-4be3-8d20-27e2226d66fd, mapped to Zombie['Zombie'/41, uuid='9b9c136d-e758-4be3-8d20-27e2226d66fd', l='ServerLevel[world]', x=-584.43, y=48.00, z=-1135.21, cpos=[-37, -71], tl=3614, v=true], can't add Zombie['Zombie'/60, uuid='9b9c136d-e758-4be3-8d20-27e2226d66fd', l='ServerLevel[world]', x=-584.08, y=47.00, z=-1136.01, cpos=[-37, -72], tl=3602, v=false]
 [04:51:13] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 34afe30a-0501-4f89-bcf2-afff3025c152, mapped to Bat['Bat'/174, uuid='34afe30a-0501-4f89-bcf2-afff3025c152', l='ServerLevel[world]', x=-540.52, y=23.94, z=-1165.35, cpos=[-34, -73], tl=2219, v=true], can't add Bat['Bat'/187, uuid='34afe30a-0501-4f89-bcf2-afff3025c152', l='ServerLevel[world]', x=-538.89, y=24.75, z=-1169.50, cpos=[-34, -74], tl=2203, v=false]
 [04:51:32] [Server thread/INFO]: Min_Chulo issued server command: /fly
+[05:11:56] [Server thread/WARN]: Min_Chulo moved wrongly!
+[05:16:05] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[05:17:12] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:mushroom_stem
+[05:17:15] [Server thread/INFO]: Min_Chulo issued server command: /trash
+[05:17:35] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo red_mushroom 2
+[05:17:51] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo decorated_pot 2
