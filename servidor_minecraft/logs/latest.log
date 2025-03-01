@@ -152,3 +152,38 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [20:31:48] [Server thread/WARN]: Min_Chulo moved wrongly!
 [20:32:34] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
 [20:32:34] [Server thread/INFO]: Min_Chulo left the game
+[20:57:59] [Server thread/INFO]: Stopping the server
+[20:57:59] [Server thread/INFO]: Stopping server
+[20:57:59] [Server thread/INFO]: [NameTag] Disabling NameTag v1.0
+[20:57:59] [Server thread/INFO]: [Back] Disabling Back v1.8.5
+[20:57:59] [Server thread/INFO]: ----------------------------
+[20:57:59] [Server thread/INFO]: Back Plugin Disabled!
+[20:57:59] [Server thread/INFO]: Plugin developed by GFelberg
+[20:57:59] [Server thread/INFO]: ----------------------------
+[20:57:59] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+169-69ed07a
+[20:57:59] [Server thread/INFO]: [setHome] Disabling setHome v1.0
+[20:57:59] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.154
+[20:57:59] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[20:57:59] [Server thread/INFO]: [LuckPerms] Closing storage...
+[20:57:59] [Server thread/INFO]: [LuckPerms] Goodbye!
+[20:57:59] [Server thread/INFO]: Saving players
+[20:57:59] [Server thread/INFO]: Saving worlds
+[20:57:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:57:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[20:57:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[20:57:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[20:57:59] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 6 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[20:57:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:57:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[20:57:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[20:57:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[20:57:59] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 9 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[20:57:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:57:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[20:57:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[20:57:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[20:57:59] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[20:57:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:57:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:57:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:57:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
