@@ -156,3 +156,9 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [04:13:45] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo chiseled_bookshelf 4
 [04:25:54] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo stripped_spruce_wood 1
 [04:27:09] [Server thread/INFO]: Min_Chulo issued server command: /trash
+[04:28:32] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo redstone_lamp 4
+[04:28:41] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo lever 2
+[04:29:35] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo soul_sand 10
+[04:29:59] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo nether_wart 10
+[04:31:06] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo oak_slab 4
+[04:34:47] [Server thread/INFO]: Min_Chulo issued server command: /ec
