@@ -142,3 +142,7 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [03:46:03] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [03:49:15] [Server thread/WARN]: Skeleton Horse (vehicle of Min_Chulo) moved wrongly! 0.39992497680148115
 [03:51:55] [Server thread/INFO]: Min_Chulo issued server command: /home
+[03:52:57] [Server thread/INFO]: Min_Chulo issued server command: /home
+[03:55:54] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo dark_oak_trapdoor 128
+[03:59:50] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo stripped_dark_oak_log 150
+[04:06:56] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo spruce_log
