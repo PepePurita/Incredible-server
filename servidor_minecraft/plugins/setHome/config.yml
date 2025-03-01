@@ -1,0 +1,32 @@
+c64d5450-ef6c-3309-ac03-cff3f3f0edaf:
+  ==: org.bukkit.Location
+  world: world
+  x: -382.722578694096
+  y: 69.0
+  z: -1220.6463530897431
+  pitch: 3.247641
+  yaw: 169.11737
+dc5bbb1e-d32f-3531-9bba-53d8b57094a7:
+  ==: org.bukkit.Location
+  world: world
+  x: -472.08634578717175
+  y: 70.0
+  z: -1218.4048126727598
+  pitch: 16.65005
+  yaw: 87.000244
+382d519e-950f-353f-90a7-fa837834c272:
+  ==: org.bukkit.Location
+  world: world
+  x: -2874.953010426616
+  y: 115.0
+  z: -1450.4338219030951
+  pitch: 10.543473
+  yaw: 90.92624
+d056ed69-784f-36a0-bf2b-cdacad8c715d:
+  ==: org.bukkit.Location
+  world: world
+  x: -441.9680626907449
+  y: 68.9375
+  z: -1172.8502701676075
+  pitch: 15.676561
+  yaw: 100.85855

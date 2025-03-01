@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.240.87.204
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1740590112908
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740590790383
+  login: 1740590747249
+money: '0'
+last-account-name: NachoTrihart
+logoutlocation:
+  world: 8038ab38-042b-4a2e-b377-aca180063fc7
+  world-name: world
+  x: -475.7817804505288
+  y: 71.0
+  z: -1157.699999988079
+  yaw: -117.56881713867188
+  pitch: -9.075897216796875
+lastlocation:
+  world: 8038ab38-042b-4a2e-b377-aca180063fc7
+  world-name: world
+  x: -458.33692560949123
+  y: 70.0
+  z: -1180.751710897278
+  yaw: 166.6558380126953
+  pitch: 8.525842666625977

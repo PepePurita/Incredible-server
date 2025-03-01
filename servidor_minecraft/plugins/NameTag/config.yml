@@ -1,0 +1,5 @@
+settings:
+  chat-format: "&7[%prefix%&7] %player% &8» &f%message%"
+  update-on-join: true
+  update-on-chat: true
+  use-scoreboard-teams: true  # Activa el uso de equipos para las nametags

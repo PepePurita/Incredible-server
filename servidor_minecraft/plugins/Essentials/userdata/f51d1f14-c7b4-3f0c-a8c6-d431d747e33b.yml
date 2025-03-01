@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.127.239.245
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1740591081227
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740591285383
+  login: 1740589987670
+money: '0'
+last-account-name: BrV
+lastlocation:
+  world: 8038ab38-042b-4a2e-b377-aca180063fc7
+  world-name: world
+  x: -549.3947883656592
+  y: 297.0337589265918
+  z: -1355.487500011921
+  yaw: -179.69996643066406
+  pitch: 90.0
+logoutlocation:
+  world: 8038ab38-042b-4a2e-b377-aca180063fc7
+  world-name: world
+  x: -560.9184483976745
+  y: 84.0
+  z: -1328.6651552122607
+  yaw: 46.274017333984375
+  pitch: 30.60002899169922
