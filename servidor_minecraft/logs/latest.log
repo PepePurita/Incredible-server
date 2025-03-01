@@ -147,3 +147,10 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [05:17:15] [Server thread/INFO]: Min_Chulo issued server command: /trash
 [05:17:35] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo red_mushroom 2
 [05:17:51] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo decorated_pot 2
+[05:24:12] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[05:24:20] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[05:24:23] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[05:29:39] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo white_concrete 35
+[05:29:42] [Server thread/INFO]: Min_Chulo issued server command: /trash
+[05:31:00] [Async Chat Thread - #0/INFO]: [Not Secure] Papu Min_Chulo: ec
+[05:31:04] [Server thread/INFO]: Min_Chulo issued server command: /ec
