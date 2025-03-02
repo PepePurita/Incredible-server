@@ -294,3 +294,75 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [04:01:29] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 10
 [04:01:39] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 1.5
 [04:02:04] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 3
+[04:03:18] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 10
+[04:03:28] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 3
+[04:04:20] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 2
+[04:04:41] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 10
+[04:05:09] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 0.001
+[04:05:21] [Server thread/INFO]: Min_Chulo issued server command: /attribute NachoTrihart minecraft:generic.scale base set 0.001
+[04:05:33] [Server thread/INFO]: Min_Chulo issued server command: /attribute NachoTrihart minecraft:generic.scale base set 10
+[04:05:53] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 0.5
+[04:06:09] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 0.1
+[04:06:29] [Server thread/INFO]: Min_Chulo issued server command: /attribute NachoTrihart minecraft:generic.scale base set 0.1
+[04:06:48] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[04:06:58] [Server thread/INFO]: Min_Chulo issued server command: /attribute NachoTrihart minecraft:generic.scale base set 10
+[04:07:02] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[04:07:02] [Server thread/INFO]: NachoTrihart left the game
+[04:07:09] [Server thread/INFO]: Min_Chulo issued server command: //ec
+[04:07:11] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[04:07:11] [User Authenticator #11/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[04:07:13] [Server thread/INFO]: NachoTrihart joined the game
+[04:07:13] [Server thread/INFO]: NachoTrihart[/127.68.194.44:43357] logged in with entity id 22062 at ([world]-564.0, 80.5, -1066.625)
+[04:07:19] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[04:07:19] [Server thread/INFO]: NachoTrihart left the game
+[04:07:38] [User Authenticator #11/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[04:07:39] [Server thread/INFO]: NachoTrihart joined the game
+[04:07:39] [Server thread/INFO]: NachoTrihart[/127.68.194.44:52965] logged in with entity id 22195 at ([world]-564.0, 83.0, -1066.625)
+[04:07:40] [Server thread/INFO]: Min_Chulo issued server command: /attribute NachoTrihart minecraft:generic.scale base set 1.5
+[04:07:44] [Server thread/INFO]: _TeyZen_ issued server command: /home
+[04:07:55] [Server thread/INFO]: Min_Chulo issued server command: /attribute NachoTrihart minecraft:generic.scale base set 1.1
+[04:08:13] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 1.1
+[04:08:19] [Server thread/INFO]: Min_Chulo issued server command: /attribute NachoTrihart minecraft:generic.scale base set 1
+[04:08:33] [Async Chat Thread - #12/INFO]: [Not Secure] Papu Min_Chulo: a
+[04:11:48] [Server thread/INFO]: _TeyZen_ issued server command: /home
+[04:11:53] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[04:11:53] [Server thread/INFO]: Min_Chulo left the game
+[04:12:05] [Server thread/INFO]: Stopping the server
+[04:12:05] [Server thread/INFO]: Stopping server
+[04:12:05] [Server thread/INFO]: [NameTag] Disabling NameTag v1.0
+[04:12:05] [Server thread/INFO]: [Back] Disabling Back v1.8.5
+[04:12:05] [Server thread/INFO]: ----------------------------
+[04:12:05] [Server thread/INFO]: Back Plugin Disabled!
+[04:12:05] [Server thread/INFO]: Plugin developed by GFelberg
+[04:12:05] [Server thread/INFO]: ----------------------------
+[04:12:05] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+169-69ed07a
+[04:12:05] [Server thread/INFO]: [setHome] Disabling setHome v1.0
+[04:12:05] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.154
+[04:12:05] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[04:12:05] [Server thread/INFO]: [LuckPerms] Closing storage...
+[04:12:05] [Server thread/INFO]: [LuckPerms] Goodbye!
+[04:12:05] [Server thread/INFO]: Saving players
+[04:12:05] [Server thread/INFO]: NachoTrihart lost connection: Server closed
+[04:12:05] [Server thread/INFO]: NachoTrihart left the game
+[04:12:05] [Server thread/INFO]: _TeyZen_ lost connection: Server closed
+[04:12:05] [Server thread/INFO]: _TeyZen_ left the game
+[04:12:05] [Server thread/INFO]: Saving worlds
+[04:12:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:12:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:12:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:12:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:12:09] [Server thread/INFO]: [ChunkHolderManager] Saved 1455 block chunks, 2037 entity chunks, 0 poi chunks in world 'world' in 4.04s
+[04:12:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:12:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:12:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:12:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:12:09] [Server thread/INFO]: [ChunkHolderManager] Saved 89 block chunks, 142 entity chunks, 0 poi chunks in world 'world_nether' in 0.27s
+[04:12:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:12:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:12:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:12:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:12:10] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 794 entity chunks, 0 poi chunks in world 'world_the_end' in 0.37s
+[04:12:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:12:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:12:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:12:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
