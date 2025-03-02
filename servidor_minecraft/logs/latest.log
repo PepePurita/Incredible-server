@@ -223,3 +223,18 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [03:20:41] [Async Chat Thread - #10/INFO]: [Not Secure] Papu Min_Chulo: a
 [03:21:20] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo dark_oak_trapdoor 192
 [03:21:21] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo dark_oak_trapdoor 192
+[03:22:36] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo smooth_quartz_slab 258
+[03:23:02] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo dark_oak_fence 251
+[03:23:20] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo dark_oak_stairs 217
+[03:23:51] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo glowstoneblock 208
+[03:24:07] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo chiseled_bookshelf 196
+[03:24:56] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo dark_oak_planks 171
+[03:25:12] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo grindstone 164
+[03:27:09] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo polished_diorite_stairs 15
+[03:27:25] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo spruce_log 61
+[03:29:16] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo smooth_quartz_stairs 16
+[03:29:48] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo polished_diorite_slab 8
+[03:29:58] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo candle 4
+[03:30:22] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo beehive 2
+[03:30:43] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo chiseled_quartz_block 2
+[03:32:18] [Server thread/INFO]: Min_Chulo issued server command: /ec
