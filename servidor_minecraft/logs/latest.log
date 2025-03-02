@@ -241,3 +241,13 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [03:42:03] [User Authenticator #8/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
 [03:42:05] [Server thread/INFO]: NachoTrihart joined the game
 [03:42:05] [Server thread/INFO]: NachoTrihart[/127.68.194.44:41351] logged in with entity id 15925 at ([world]-475.7817804505288, 71.0, -1157.699999988079)
+[03:43:19] [Server thread/INFO]: NachoTrihart issued server command: /EC
+[03:44:31] [Server thread/INFO]: NachoTrihart issued server command: /ec
+[03:44:37] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo stripped_dark_oak_log 11
+[03:45:29] [Server thread/INFO]: NachoTrihart issued server command: /ec
+[03:46:05] [Server thread/INFO]: NachoTrihart issued server command: /ec
+[03:46:29] [User Authenticator #9/INFO]: UUID of player _TeyZen_ is 382d519e-950f-353f-90a7-fa837834c272
+[03:46:31] [Server thread/INFO]: _TeyZen_ joined the game
+[03:46:31] [Server thread/INFO]: _TeyZen_[/127.44.102.46:56501] logged in with entity id 16969 at ([world]-643.6619801067169, 75.0, -1091.9920727382648)
+[03:50:33] [Server thread/WARN]: Player NachoTrihart just tried to change non-editable sign
+[03:51:34] [Server thread/WARN]: _TeyZen_ moved wrongly!
