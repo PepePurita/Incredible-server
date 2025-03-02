@@ -251,3 +251,46 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [03:46:31] [Server thread/INFO]: _TeyZen_[/127.44.102.46:56501] logged in with entity id 16969 at ([world]-643.6619801067169, 75.0, -1091.9920727382648)
 [03:50:33] [Server thread/WARN]: Player NachoTrihart just tried to change non-editable sign
 [03:51:34] [Server thread/WARN]: _TeyZen_ moved wrongly!
+[03:54:42] [Server thread/INFO]: _TeyZen_ issued server command: /msg Min_Chulo haceme gigante
+[03:54:51] [Server thread/INFO]: _TeyZen_ issued server command: /msg Min_Chulo para asustarlo a bauti
+[03:55:09] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 100
+[03:55:18] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 0.001
+[03:55:23] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 100
+[03:55:27] [Server thread/INFO]: _TeyZen_ issued server command: /msg Min_Chulo dejame chiquito
+[03:55:29] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 0.001
+[03:56:04] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 100
+[03:56:09] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 0.001
+[03:56:16] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 100
+[03:56:18] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 0.001
+[03:56:29] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 100
+[03:56:30] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[03:56:30] [Server thread/INFO]: NachoTrihart left the game
+[03:56:36] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 0.001
+[03:56:42] [User Authenticator #10/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[03:56:43] [Server thread/INFO]: NachoTrihart joined the game
+[03:56:43] [Server thread/INFO]: NachoTrihart[/127.68.194.44:46759] logged in with entity id 19402 at ([world]-468.8137034374108, 71.0, -1180.7082958030803)
+[03:56:49] [Server thread/INFO]: Min_Chulo issued server command: /kick _TeyZen_
+[03:56:49] [Server thread/INFO]: _TeyZen_ lost connection: Kicked from server.
+[03:56:49] [Server thread/INFO]: _TeyZen_ left the game
+[03:56:49] [Server thread/INFO]: [Essentials] Player Min_Chulo kicked _TeyZen_ for Kicked from server..
+[03:56:54] [User Authenticator #10/INFO]: UUID of player _TeyZen_ is 382d519e-950f-353f-90a7-fa837834c272
+[03:56:55] [Server thread/INFO]: _TeyZen_ joined the game
+[03:56:55] [Server thread/INFO]: _TeyZen_[/127.44.102.46:56157] logged in with entity id 19427 at ([world]-479.98124999925494, 71.0, -1179.981249999255)
+[03:57:03] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 100
+[03:57:09] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 0.001
+[03:57:26] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 100
+[03:57:38] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 0.001
+[03:58:03] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 5
+[03:58:13] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 1
+[03:58:17] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 0.001
+[03:58:51] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 0.1
+[03:59:30] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 5
+[03:59:46] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 10000
+[04:00:03] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 0.000001
+[04:00:14] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 10000
+[04:00:19] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 10
+[04:01:01] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 4
+[04:01:18] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 2
+[04:01:29] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 10
+[04:01:39] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 1.5
+[04:02:04] [Server thread/INFO]: Min_Chulo issued server command: /attribute _TeyZen_ minecraft:generic.scale base set 3
