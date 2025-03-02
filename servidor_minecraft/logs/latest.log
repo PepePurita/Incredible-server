@@ -180,3 +180,26 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [03:01:22] [User Authenticator #3/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
 [03:01:25] [Server thread/INFO]: Min_Chulo joined the game
 [03:01:25] [Server thread/INFO]: Min_Chulo[/127.95.7.125:51579] logged in with entity id 4923 at ([world]-565.0805049298784, 74.99797781791182, -1147.6088535937713)
+[03:01:37] [Async Chat Thread - #5/INFO]: [Not Secure] Papu Min_Chulo: a
+[03:06:32] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo dark_oak_slab 28
+[03:06:44] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo dark_oak_slab 192
+[03:06:55] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo dark_oak_slab 192
+[03:06:59] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo dark_oak_slab 128
+[03:07:23] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo composter 192
+[03:07:26] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo composter 192
+[03:07:27] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo composter 192
+[03:07:33] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo composter 64
+[03:07:34] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo composter 32
+[03:09:28] [Server thread/WARN]: Min_Chulo moved wrongly!
+[03:09:55] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[03:09:55] [Server thread/INFO]: Min_Chulo left the game
+[03:10:00] [User Authenticator #4/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[03:10:03] [Server thread/INFO]: Min_Chulo joined the game
+[03:10:03] [Server thread/INFO]: Min_Chulo[/127.95.7.125:44625] logged in with entity id 6594 at ([world]-481.3338296062268, 81.81430801638028, -1178.4344364612305)
+[03:10:40] [Async Chat Thread - #6/INFO]: [Not Secure] Papu Min_Chulo: a
+[03:11:29] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[03:11:29] [Server thread/INFO]: Min_Chulo left the game
+[03:11:37] [User Authenticator #5/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[03:11:38] [Server thread/INFO]: Min_Chulo joined the game
+[03:11:38] [Server thread/INFO]: Min_Chulo[/127.95.7.125:45329] logged in with entity id 8226 at ([world_nether]-50.30000001192093, 60.0, -168.5)
+[03:11:44] [Async Chat Thread - #8/INFO]: [Not Secure] Papu Min_Chulo: a
