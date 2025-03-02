@@ -203,3 +203,23 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [03:11:38] [Server thread/INFO]: Min_Chulo joined the game
 [03:11:38] [Server thread/INFO]: Min_Chulo[/127.95.7.125:45329] logged in with entity id 8226 at ([world_nether]-50.30000001192093, 60.0, -168.5)
 [03:11:44] [Async Chat Thread - #8/INFO]: [Not Secure] Papu Min_Chulo: a
+[03:13:06] [Server thread/INFO]: Min_Chulo issued server command: /home
+[03:13:28] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[03:13:28] [Server thread/INFO]: Min_Chulo left the game
+[03:13:41] [User Authenticator #6/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[03:13:43] [Server thread/INFO]: Min_Chulo joined the game
+[03:13:43] [Server thread/INFO]: Min_Chulo[/127.95.7.125:32885] logged in with entity id 10395 at ([world]-433.23150177192474, 77.16813598547792, -1216.7805427178298)
+[03:13:56] [Server thread/WARN]: Min_Chulo moved wrongly!
+[03:18:36] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo white_concrete 192
+[03:18:40] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo white_concrete 192
+[03:18:47] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo white_concrete 26
+[03:18:54] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo white_concrete 128
+[03:19:15] [Server thread/INFO]: Min_Chulo issued server command: /home
+[03:20:18] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[03:20:18] [Server thread/INFO]: Min_Chulo left the game
+[03:20:26] [User Authenticator #7/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[03:20:28] [Server thread/INFO]: Min_Chulo joined the game
+[03:20:28] [Server thread/INFO]: Min_Chulo[/127.95.7.125:52671] logged in with entity id 12392 at ([world]-602.741178782621, 76.86581712228354, -1065.7793578384872)
+[03:20:41] [Async Chat Thread - #10/INFO]: [Not Secure] Papu Min_Chulo: a
+[03:21:20] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo dark_oak_trapdoor 192
+[03:21:21] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo dark_oak_trapdoor 192
