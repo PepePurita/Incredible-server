@@ -238,3 +238,6 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [03:30:22] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo beehive 2
 [03:30:43] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo chiseled_quartz_block 2
 [03:32:18] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[03:42:03] [User Authenticator #8/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[03:42:05] [Server thread/INFO]: NachoTrihart joined the game
+[03:42:05] [Server thread/INFO]: NachoTrihart[/127.68.194.44:41351] logged in with entity id 15925 at ([world]-475.7817804505288, 71.0, -1157.699999988079)
