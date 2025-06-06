@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1740590700896
+  lastteleport: 1749182493640
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740888725210
-  login: 1749181491026
+  logout: 1749181811213
+  login: 1749181816783
 money: '0'
 last-account-name: _TeyZen_
 lastlocation:
   world: 8038ab38-042b-4a2e-b377-aca180063fc7
   world-name: world
-  x: -2878.8216384645657
-  y: 111.0
-  z: -1448.3378729333874
-  yaw: -55.35136795043945
-  pitch: 11.986388206481934
+  x: -590.330000013113
+  y: 79.5
+  z: -1141.7621852131838
+  yaw: -29.62375259399414
+  pitch: -19.141765594482422
 logoutlocation:
   world: 8038ab38-042b-4a2e-b377-aca180063fc7
   world-name: world
-  x: -2874.953010426616
-  y: 115.0
-  z: -1450.4338219030951
-  yaw: 90.92623901367188
-  pitch: 10.543473243713379
+  x: -564.1174007010467
+  y: 94.33883839989917
+  z: -1090.2139287025852
+  yaw: -84.74630737304688
+  pitch: 13.82398796081543

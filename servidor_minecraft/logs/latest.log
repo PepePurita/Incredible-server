@@ -147,3 +147,55 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [03:44:51] [Server thread/INFO]: _TeyZen_ joined the game
 [03:44:51] [Server thread/INFO]: _TeyZen_[/127.232.131.72:46819] logged in with entity id 1377 at ([world]-2874.953010426616, 115.0, -1450.4338219030951)
 [03:48:20] [User Authenticator #2/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[03:48:29] [Server thread/INFO]: Min_Chulo joined the game
+[03:48:29] [Server thread/INFO]: Min_Chulo[/127.110.17.117:38011] logged in with entity id 2687 at ([world]-575.7477615803973, 79.23667736299484, -1066.3665207242975)
+[03:48:34] [Server thread/INFO]: _TeyZen_ issued server command: /tpa Min_Chulo
+[03:49:05] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[03:50:11] [Server thread/INFO]: Min_Chulo issued server command: /kick _TeyZen_
+[03:50:11] [Server thread/INFO]: _TeyZen_ lost connection: Kicked from server.
+[03:50:11] [Server thread/INFO]: _TeyZen_ left the game
+[03:50:11] [Server thread/INFO]: [Essentials] Player Min_Chulo kicked _TeyZen_ for Kicked from server..
+[03:50:13] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[03:50:13] [Server thread/INFO]: Min_Chulo left the game
+[03:50:15] [User Authenticator #3/INFO]: UUID of player _TeyZen_ is 382d519e-950f-353f-90a7-fa837834c272
+[03:50:16] [Server thread/INFO]: _TeyZen_ joined the game
+[03:50:16] [Server thread/INFO]: _TeyZen_[/127.232.131.72:37915] logged in with entity id 3355 at ([world]-564.1174007010467, 93.85274226455918, -1090.2139287025852)
+[03:50:37] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[03:50:37] [Server thread/INFO]: NachoTrihart left the game
+[03:54:17] [User Authenticator #4/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[03:54:19] [Server thread/INFO]: NachoTrihart joined the game
+[03:54:19] [Server thread/INFO]: NachoTrihart[/127.109.223.80:41913] logged in with entity id 4526 at ([world]-559.7277237417454, 77.0, -1130.9920204633208)
+[03:54:48] [Async Chat Thread - #0/INFO]: [Not Secure] Papu NachoTrihart: _TeyZen_
+[03:54:51] [Async Chat Thread - #0/INFO]: [Not Secure] Papu NachoTrihart: NachoTrihart}
+[03:57:01] [User Authenticator #5/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[03:57:12] [Server thread/INFO]: Min_Chulo joined the game
+[03:57:12] [Server thread/INFO]: Min_Chulo[/127.110.17.117:56667] logged in with entity id 5437 at ([world]-554.9927581707601, 75.5, -1089.145644939902)
+[03:58:47] [Server thread/INFO]: Min_Chulo issued server command: /tpa NachoTrihart
+[03:58:56] [Server thread/INFO]: NachoTrihart issued server command: /tpaccept
+[04:01:30] [Server thread/INFO]: _TeyZen_ issued server command: /tpa Min_Chulo
+[04:01:33] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[04:01:54] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[04:01:54] [Server thread/INFO]: NachoTrihart left the game
+[04:01:59] [User Authenticator #6/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[04:02:00] [Server thread/INFO]: NachoTrihart joined the game
+[04:02:00] [Server thread/INFO]: NachoTrihart[/127.109.223.80:56085] logged in with entity id 7445 at ([world]-594.9511581387607, 84.0, -1299.0648447097487)
+[04:02:03] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[04:02:11] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[04:02:44] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[04:03:28] [Server thread/WARN]: NachoTrihart moved too quickly! 43.70993035788047,9.691363067265613,-4.86252693855613
+[04:03:55] [Server thread/INFO]: NachoTrihart issued server command: /ec
+[04:05:16] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[04:05:59] [Server thread/INFO]: Min_Chulo issued server command: /summon minecraft:lightning_bolt _Teyzen_
+[04:06:07] [Server thread/INFO]: Min_Chulo issued server command: /summon minecraft:lightning_bolt ~ ~ ~
+[04:06:07] [Server thread/INFO]: [Min_Chulo: Summoned new Lightning Bolt]
+[04:06:08] [Server thread/WARN]: Player NachoTrihart just tried to change non-editable sign
+[04:06:11] [Server thread/INFO]: Min_Chulo issued server command: /summon minecraft:lightning_bolt ~ ~ ~
+[04:06:11] [Server thread/INFO]: [Min_Chulo: Summoned new Lightning Bolt]
+[04:06:35] [Async Chat Thread - #2/INFO]: [Not Secure] Papu Min_Chulo: asd
+[04:07:14] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[04:07:18] [Server thread/INFO]: Min_Chulo issued server command: /home
+[04:07:21] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[04:07:21] [Server thread/INFO]: NachoTrihart left the game
+[04:08:18] [Server thread/INFO]: Min_Chulo issued server command: /home
+[04:08:29] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[04:08:39] [Server thread/INFO]: Villager Villager['Armorer'/241, uuid='f49d1944-f69d-4d76-b623-e353aa0a0eb3', l='ServerLevel[world]', x=-382.59, y=69.00, z=-1224.63, cpos=[-24, -77], tl=1773384, v=true] died, message: 'Armorer was burned to a crisp while fighting _TeyZen_'
