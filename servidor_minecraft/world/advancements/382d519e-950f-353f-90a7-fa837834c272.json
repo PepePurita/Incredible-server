@@ -578,6 +578,7 @@
       "beef": "2024-07-13 01:03:37 +0000",
       "melon_slice": "2024-07-14 00:08:36 +0000",
       "porkchop": "2024-07-13 01:13:29 +0000",
+      "tropical_fish": "2025-06-06 04:46:27 +0000",
       "golden_carrot": "2024-07-13 00:09:07 +0000",
       "apple": "2024-07-08 03:37:28 +0000",
       "cooked_chicken": "2024-07-04 02:36:35 +0000",
@@ -774,6 +775,7 @@
       "minecraft:ghast": "2024-07-12 01:08:28 +0000",
       "minecraft:hoglin": "2024-07-08 01:50:57 +0000",
       "minecraft:vindicator": "2024-07-16 05:19:53 +0000",
+      "minecraft:breeze": "2025-06-06 04:45:43 +0000",
       "minecraft:magma_cube": "2024-07-14 03:00:23 +0000",
       "minecraft:spider": "2024-07-05 22:41:29 +0000",
       "minecraft:piglin_brute": "2024-07-12 01:01:00 +0000",
@@ -785,6 +787,7 @@
       "minecraft:zombified_piglin": "2024-07-16 02:51:47 +0000",
       "minecraft:witch": "2024-07-08 01:27:57 +0000",
       "minecraft:wither_skeleton": "2024-07-06 04:29:42 +0000",
+      "minecraft:husk": "2025-06-06 04:46:07 +0000",
       "minecraft:ender_dragon": "2024-10-26 04:42:23 +0000",
       "minecraft:shulker": "2024-10-20 02:41:00 +0000",
       "minecraft:cave_spider": "2024-07-12 02:51:59 +0000",
@@ -5300,6 +5303,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-06 04:53:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-06-06 04:39:54 +0000"
@@ -5315,6 +5324,12 @@
   "minecraft:end/levitate": {
     "criteria": {
       "levitated": "2025-06-06 04:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-06-06 04:52:07 +0000"
     },
     "done": true
   },

@@ -335,3 +335,37 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [04:49:50] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:speed 255
 [04:49:50] [Server thread/INFO]: [Min_Chulo: Applied effect Speed to _TeyZen_]
 [04:49:53] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:speed 25
+[04:50:03] [Server thread/INFO]: Min_Chulo issued server command: /effect clear _TeyZen_
+[04:50:03] [Server thread/INFO]: [Min_Chulo: Removed every effect from _TeyZen_]
+[04:50:16] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:speed infinite 25
+[04:50:16] [Server thread/INFO]: [Min_Chulo: Applied effect Speed to _TeyZen_]
+[04:50:21] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:speed infinite 255
+[04:50:21] [Server thread/INFO]: [Min_Chulo: Applied effect Speed to _TeyZen_]
+[04:50:22] [Server thread/WARN]: _TeyZen_ moved too quickly! -12.175329928606402,0.0,1.7348358025972175
+[04:50:23] [Server thread/WARN]: _TeyZen_ moved too quickly! -10.249162005731478,0.0,1.0752513110430755
+[04:50:23] [Server thread/WARN]: _TeyZen_ moved too quickly! -10.243048883392703,0.0,1.1302921577430425
+[04:50:23] [Server thread/WARN]: _TeyZen_ moved too quickly! -12.202675871953375,0.0,1.3482470357198508
+[04:50:48] [Server thread/INFO]: Min_Chulo issued server command: /tp _TeyZen_ _TeyZen_
+[04:50:54] [Server thread/INFO]: Min_Chulo issued server command: /tp _TeyZen_ Min_Chulo
+[04:51:05] [Server thread/INFO]: Min_Chulo issued server command: /effect clear _TeyZen_
+[04:51:05] [Server thread/INFO]: [Min_Chulo: Removed every effect from _TeyZen_]
+[04:51:08] [Server thread/INFO]: Min_Chulo issued server command: /tp _TeyZen_ Min_Chulo
+[04:53:10] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.28724334980415733
+[04:53:10] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.35457442319852817
+[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.5706631301961806
+[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.5706631301961806
+[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.5706631301961806
+[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.5706631301961806
+[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.5002035734098627
+[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.5706631301961806
+[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.5706631301961806
+[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.5002254184324784
+[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.4302509125686811
+[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.36082656654707534
+[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.2918973859198104
+[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.5706631301961806
+[04:53:16] [Server thread/WARN]: Bamboo Raft (vehicle of _TeyZen_) moved wrongly! 5.685334665810342
+[04:53:57] [Server thread/INFO]: _TeyZen_ has made the advancement [Best Friends Forever]
+[04:55:54] [Server thread/INFO]: Min_Chulo issued server command: /capes
+[04:57:07] [Server thread/INFO]: Min_Chulo issued server command: /tp _TeyZen_ Min_Chulo
+[04:57:49] [Server thread/INFO]: Min_Chulo issued server command: /tp Min_Chulo _TeyZen_
