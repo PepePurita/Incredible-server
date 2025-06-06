@@ -199,3 +199,21 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [04:08:18] [Server thread/INFO]: Min_Chulo issued server command: /home
 [04:08:29] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [04:08:39] [Server thread/INFO]: Villager Villager['Armorer'/241, uuid='f49d1944-f69d-4d76-b623-e353aa0a0eb3', l='ServerLevel[world]', x=-382.59, y=69.00, z=-1224.63, cpos=[-24, -77], tl=1773384, v=true] died, message: 'Armorer was burned to a crisp while fighting _TeyZen_'
+[04:14:11] [User Authenticator #7/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[04:14:12] [Server thread/INFO]: NachoTrihart joined the game
+[04:14:12] [Server thread/INFO]: NachoTrihart[/127.109.223.80:52255] logged in with entity id 10742 at ([world]-585.4944923750708, 82.0, -1281.9519981148803)
+[04:15:55] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[04:15:55] [Server thread/INFO]: NachoTrihart left the game
+[04:16:01] [User Authenticator #8/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[04:16:03] [Server thread/INFO]: NachoTrihart joined the game
+[04:16:03] [Server thread/INFO]: NachoTrihart[/127.109.223.80:47795] logged in with entity id 11159 at ([world]-540.3000000119209, 68.0, -1250.3193143838278)
+[04:16:09] [Server thread/INFO]: NachoTrihart was slain by _TeyZen_
+[04:16:09] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[04:16:09] [Server thread/INFO]: NachoTrihart left the game
+[04:16:30] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[04:16:35] [User Authenticator #8/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[04:16:36] [Server thread/INFO]: NachoTrihart joined the game
+[04:16:36] [Server thread/INFO]: NachoTrihart[/127.109.223.80:36131] logged in with entity id 11341 at ([world]-540.3000000119209, 68.0, -1250.300000011921)
+[04:17:26] [Server thread/INFO]: NachoTrihart issued server command: /home
+[04:18:26] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[04:18:26] [Server thread/INFO]: NachoTrihart left the game
