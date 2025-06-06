@@ -369,3 +369,66 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [04:55:54] [Server thread/INFO]: Min_Chulo issued server command: /capes
 [04:57:07] [Server thread/INFO]: Min_Chulo issued server command: /tp _TeyZen_ Min_Chulo
 [04:57:49] [Server thread/INFO]: Min_Chulo issued server command: /tp Min_Chulo _TeyZen_
+[05:00:30] [Server thread/INFO]: Min_Chulo issued server command: /efeed Min_Chulo
+[05:00:48] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 22
+[05:00:48] [Server thread/INFO]: [Min_Chulo: Applied effect Jump Boost to _TeyZen_]
+[05:00:52] [Server thread/INFO]: Min_Chulo issued server command: /tp Min_Chulo _TeyZen_
+[05:00:57] [Server thread/INFO]: _TeyZen_ issued server command: /home
+[05:01:02] [Server thread/INFO]: Min_Chulo issued server command: /tp Min_Chulo _TeyZen_
+[05:01:08] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 50
+[05:01:08] [Server thread/INFO]: [Min_Chulo: Applied effect Jump Boost to _TeyZen_]
+[05:01:22] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 50 25
+[05:01:22] [Server thread/INFO]: [Min_Chulo: Applied effect Jump Boost to _TeyZen_]
+[05:01:40] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 50 50
+[05:01:40] [Server thread/INFO]: [Min_Chulo: Applied effect Jump Boost to _TeyZen_]
+[05:01:53] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 50 100
+[05:01:53] [Server thread/INFO]: [Min_Chulo: Applied effect Jump Boost to _TeyZen_]
+[05:02:02] [Server thread/WARN]: _TeyZen_ moved too quickly! -0.009351134221560642,10.520000457763672,0.006574669830797575
+[05:02:04] [Server thread/WARN]: _TeyZen_ moved too quickly! -0.15724325839892117,10.520000457763672,-0.09753448748915616
+[05:02:05] [Server thread/WARN]: _TeyZen_ moved too quickly! -0.24631769525785785,10.520000457763672,-0.1750356077241122
+[05:02:05] [Server thread/WARN]: _TeyZen_ moved too quickly! -0.1648394001581437,10.520000457763672,-0.11713638580999941
+[05:02:06] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.018905385067228053,10.520000457763672,0.0397801623853411
+[05:02:07] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:07] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:08] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:08] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:09] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:09] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:10] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:11] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:11] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:12] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:12] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:13] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:13] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:14] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:14] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:15] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:15] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 50 99
+[05:02:15] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:16] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:16] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:17] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:19] [Server thread/WARN]: _TeyZen_ moved too quickly! -0.2108608706839732,10.520000457763672,0.03556017497339781
+[05:02:19] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:20] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:20] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:21] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
+[05:02:23] [Server thread/INFO]: Min_Chulo issued server command: /effect clear _TeyZen_
+[05:02:23] [Server thread/INFO]: [Min_Chulo: Removed every effect from _TeyZen_]
+[05:02:31] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ 75
+[05:02:49] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 75
+[05:02:49] [Server thread/INFO]: [Min_Chulo: Applied effect Jump Boost to _TeyZen_]
+[05:02:57] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 75 75
+[05:02:57] [Server thread/INFO]: [Min_Chulo: Applied effect Jump Boost to _TeyZen_]
+[05:03:11] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 75 80
+[05:03:11] [Server thread/INFO]: [Min_Chulo: Applied effect Jump Boost to _TeyZen_]
+[05:03:14] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 75 90
+[05:03:14] [Server thread/INFO]: [Min_Chulo: Applied effect Jump Boost to _TeyZen_]
+[05:03:32] [Server thread/INFO]: Min_Chulo issued server command: /effect clear _TeyZen_
+[05:03:32] [Server thread/INFO]: [Min_Chulo: Removed every effect from _TeyZen_]
+[05:03:49] [Server thread/INFO]: _TeyZen_ lost connection: Disconnected
+[05:03:49] [Server thread/INFO]: _TeyZen_ left the game
+[05:03:50] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:oozing infinite 124
+[05:03:52] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[05:03:52] [Server thread/INFO]: Min_Chulo left the game

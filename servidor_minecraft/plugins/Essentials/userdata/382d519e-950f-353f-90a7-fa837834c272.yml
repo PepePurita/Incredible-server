@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749181811213
+  logout: 1749186229634
   login: 1749181816783
 money: '0'
 last-account-name: _TeyZen_
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 8038ab38-042b-4a2e-b377-aca180063fc7
   world-name: world
-  x: -564.1174007010467
-  y: 94.33883839989917
-  z: -1090.2139287025852
-  yaw: -84.74630737304688
-  pitch: 13.82398796081543
+  x: -2917.7428320432973
+  y: 63.0
+  z: -1472.1030205273312
+  yaw: 135.494140625
+  pitch: -1.3696966171264648
