@@ -318,3 +318,20 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [04:35:46] [Server thread/INFO]: Min_Chulo issued server command: /effect give Min_Chulo minecraft:strength infinite 255
 [04:35:46] [Server thread/INFO]: [Min_Chulo: Applied effect Strength to Min_Chulo]
 [04:36:17] [Server thread/INFO]: Min_Chulo has completed the challenge [It Spreads]
+[04:41:22] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[04:41:22] [Server thread/INFO]: NachoTrihart left the game
+[04:43:54] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:absorption infinite 255
+[04:43:54] [Server thread/INFO]: [Min_Chulo: Applied effect Absorption to _TeyZen_]
+[04:44:02] [Server thread/INFO]: Min_Chulo issued server command: /tp _TeyZen_ Min_Chulo
+[04:44:32] [Server thread/INFO]: Min_Chulo issued server command: /tp _TeyZen_ Min_Chulo
+[04:44:38] [Server thread/INFO]: Min_Chulo issued server command: /tp _TeyZen_ Min_Chulo
+[04:46:58] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:slowness infinite 2
+[04:46:58] [Server thread/INFO]: [Min_Chulo: Applied effect Slowness to _TeyZen_]
+[04:47:38] [Server thread/INFO]: Min_Chulo issued server command: /give _TeyZen_ minecraft:cookie 19999999
+[04:47:45] [Server thread/INFO]: Min_Chulo issued server command: /give _TeyZen_ minecraft:cookie 19999999
+[04:47:47] [Server thread/INFO]: Min_Chulo issued server command: /give _TeyZen_ minecraft:cookie 19999999
+[04:49:09] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:speed 255
+[04:49:09] [Server thread/INFO]: [Min_Chulo: Applied effect Speed to _TeyZen_]
+[04:49:50] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:speed 255
+[04:49:50] [Server thread/INFO]: [Min_Chulo: Applied effect Speed to _TeyZen_]
+[04:49:53] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:speed 25
