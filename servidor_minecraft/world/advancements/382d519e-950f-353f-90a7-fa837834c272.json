@@ -5303,6 +5303,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-06-06 04:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-06-06 04:27:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/who_needs_rockets": {
     "criteria": {
       "who_needs_rockets": "2025-06-06 04:21:29 +0000"

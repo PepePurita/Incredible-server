@@ -304,3 +304,17 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [04:28:56] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:block.anvil.place to _TeyZen_]
 [04:29:09] [Server thread/INFO]: Min_Chulo issued server command: /ping
 [04:29:32] [Server thread/INFO]: Min_Chulo issued server command: /adventuremode _TeyZen_
+[04:29:45] [Server thread/INFO]: Min_Chulo issued server command: /effect clear @a
+[04:29:45] [Server thread/INFO]: [Min_Chulo: Removed every effect from 2 targets]
+[04:29:56] [Server thread/INFO]: Min_Chulo issued server command: /survivalmode _TeyZen_
+[04:30:42] [Server thread/INFO]: Min_Chulo issued server command: /craft
+[04:31:11] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
+[04:32:42] [User Authenticator #10/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[04:32:44] [Server thread/INFO]: NachoTrihart joined the game
+[04:32:44] [Server thread/INFO]: NachoTrihart[/127.109.223.80:51251] logged in with entity id 14522 at ([world]-597.881370282405, 85.0, -1275.9780155484937)
+[04:33:02] [Async Chat Thread - #4/INFO]: [Not Secure] Papu NachoTrihart: listo
+[04:33:53] [Server thread/INFO]: Min_Chulo issued server command: /vanish
+[04:35:23] [Server thread/INFO]: NachoTrihart issued server command: /ec
+[04:35:46] [Server thread/INFO]: Min_Chulo issued server command: /effect give Min_Chulo minecraft:strength infinite 255
+[04:35:46] [Server thread/INFO]: [Min_Chulo: Applied effect Strength to Min_Chulo]
+[04:36:17] [Server thread/INFO]: Min_Chulo has completed the challenge [It Spreads]
