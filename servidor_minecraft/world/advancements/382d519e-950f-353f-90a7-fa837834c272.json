@@ -5297,5 +5297,17 @@
     },
     "done": true
   },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-06-06 04:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/who_needs_rockets": {
+    "criteria": {
+      "who_needs_rockets": "2025-06-06 04:21:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

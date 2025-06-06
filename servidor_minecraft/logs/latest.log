@@ -217,3 +217,90 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [04:17:26] [Server thread/INFO]: NachoTrihart issued server command: /home
 [04:18:26] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
 [04:18:26] [Server thread/INFO]: NachoTrihart left the game
+[04:20:00] [User Authenticator #9/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
+[04:20:02] [Server thread/INFO]: NachoTrihart joined the game
+[04:20:02] [Server thread/INFO]: NachoTrihart[/127.109.223.80:49109] logged in with entity id 12057 at ([world]-470.052662018223, 71.0, -1167.8229464481028)
+[04:20:59] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[04:21:24] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[04:21:29] [Server thread/INFO]: _TeyZen_ has made the advancement [Who Needs Rockets?]
+[04:22:30] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:levitation 30 4
+[04:22:30] [Server thread/INFO]: [Min_Chulo: Applied effect Levitation to _TeyZen_]
+[04:22:37] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:levitation 30 4
+[04:22:37] [Server thread/INFO]: [Min_Chulo: Applied effect Levitation to _TeyZen_]
+[04:22:41] [Server thread/INFO]: _TeyZen_ has completed the challenge [Great View From Up Here]
+[04:22:55] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:levitation 30 4
+[04:22:55] [Server thread/INFO]: [Min_Chulo: Applied effect Levitation to _TeyZen_]
+[04:22:57] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[04:22:57] [Server thread/INFO]: NachoTrihart left the game
+[04:23:15] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:blindness infinite
+[04:23:15] [Server thread/INFO]: [Min_Chulo: Applied effect Blindness to _TeyZen_]
+[04:23:28] [Server thread/INFO]: Min_Chulo issued server command: /effect clear _TeyZen_
+[04:23:28] [Server thread/INFO]: [Min_Chulo: Removed every effect from _TeyZen_]
+[04:24:01] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:glowing 10 1
+[04:24:01] [Server thread/INFO]: [Min_Chulo: Applied effect Glowing to _TeyZen_]
+[04:24:21] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:wind_charged infinite
+[04:24:21] [Server thread/INFO]: [Min_Chulo: Applied effect Wind Charged to _TeyZen_]
+[04:24:36] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:darkness infinite
+[04:24:36] [Server thread/INFO]: [Min_Chulo: Applied effect Darkness to _TeyZen_]
+[04:24:47] [Server thread/INFO]: Min_Chulo issued server command: /effect clear _TeyZen_
+[04:24:47] [Server thread/INFO]: [Min_Chulo: Removed every effect from _TeyZen_]
+[04:25:00] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:unluck
+[04:25:00] [Server thread/INFO]: [Min_Chulo: Applied effect Bad Luck to _TeyZen_]
+[04:25:26] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:absorption infinite 255
+[04:25:26] [Server thread/INFO]: [Min_Chulo: Applied effect Absorption to _TeyZen_]
+[04:25:40] [Server thread/INFO]: Min_Chulo issued server command: /effect give Min_Chulo minecraft:absorption infinite 255
+[04:25:40] [Server thread/INFO]: [Min_Chulo: Applied effect Absorption to Min_Chulo]
+[04:26:33] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:wind
+[04:26:33] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:wind to Min_Chulo]
+[04:26:52] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient _TeyZen_
+[04:27:01] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient
+[04:27:01] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to Min_Chulo]
+[04:27:11] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient _TeyZen_
+[04:27:16] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient _TeyZen_
+[04:27:26] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient @a
+[04:27:26] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
+[04:27:34] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient @a
+[04:27:35] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
+[04:27:42] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient @a
+[04:27:42] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
+[04:27:42] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient @a
+[04:27:42] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
+[04:27:43] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient @a
+[04:27:43] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
+[04:27:44] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient @a
+[04:27:44] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
+[04:27:45] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient @a
+[04:27:45] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
+[04:27:45] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient @a
+[04:27:45] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
+[04:27:56] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click player @a
+[04:27:56] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
+[04:28:03] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click player @a
+[04:28:03] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
+[04:28:04] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click player @a
+[04:28:04] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
+[04:28:05] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click player @a
+[04:28:05] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
+[04:28:06] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click player @a
+[04:28:06] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
+[04:28:07] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click player @a
+[04:28:07] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
+[04:28:20] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:block.anvil.fall player @a
+[04:28:20] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:block.anvil.fall to 2 players]
+[04:28:21] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:block.anvil.fall player @a
+[04:28:21] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:block.anvil.fall to 2 players]
+[04:28:28] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:block.anvil.destroy player @a
+[04:28:28] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:block.anvil.destroy to 2 players]
+[04:28:36] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:block.anvil.break player @e
+[04:28:39] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:block.anvil.break player @a
+[04:28:39] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:block.anvil.break to 2 players]
+[04:28:42] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:block.anvil.break player @a
+[04:28:42] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:block.anvil.break to 2 players]
+[04:28:48] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:block.anvil.place player @a
+[04:28:48] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:block.anvil.place to 2 players]
+[04:28:52] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:block.anvil.place player
+[04:28:52] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:block.anvil.place to Min_Chulo]
+[04:28:56] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:block.anvil.place player _TeyZen_
+[04:28:56] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:block.anvil.place to _TeyZen_]
+[04:29:09] [Server thread/INFO]: Min_Chulo issued server command: /ping
+[04:29:32] [Server thread/INFO]: Min_Chulo issued server command: /adventuremode _TeyZen_
