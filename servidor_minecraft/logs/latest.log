@@ -1,26 +1,26 @@
-[03:38:31] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[03:38:31] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[03:38:31] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:38:33] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[03:38:33] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+[15:47:05] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[15:47:05] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[15:47:05] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[15:47:07] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[15:47:07] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
  - Back (1.8.5), Essentials (2.21.0-dev+169-69ed07a), LuckPerms (5.4.154), LunaColor (1.0-SNAPSHOT), NameTag (1.0), ServerOptimizer (1.0), setHome (1.0)
-[03:38:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:38:42] [ServerMain/INFO]: Loaded 1290 recipes
-[03:38:42] [ServerMain/INFO]: Loaded 1399 advancements
-[03:38:42] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[03:38:42] [Server thread/INFO]: Loading properties
-[03:38:42] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[03:38:44] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[03:38:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:38:44] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:38:45] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[03:38:45] [Server thread/INFO]: Default game type: SURVIVAL
-[03:38:45] [Server thread/INFO]: Generating keypair
-[03:38:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:38:46] [Server thread/INFO]: Using epoll channel type
-[03:38:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[03:38:46] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[03:38:46] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/LunaColor-1.0-SNAPSHOT.jar' in 'plugins/.paper-remapped'
+[15:47:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:47:22] [ServerMain/INFO]: Loaded 1290 recipes
+[15:47:22] [ServerMain/INFO]: Loaded 1399 advancements
+[15:47:23] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[15:47:23] [Server thread/INFO]: Loading properties
+[15:47:23] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[15:47:24] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:47:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:47:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:47:27] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[15:47:28] [Server thread/INFO]: Default game type: SURVIVAL
+[15:47:28] [Server thread/INFO]: Generating keypair
+[15:47:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:47:28] [Server thread/INFO]: Using epoll channel type
+[15:47:28] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:47:28] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[15:47:28] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/LunaColor-1.0-SNAPSHOT.jar' in 'plugins/.paper-remapped'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [PlaceholderAPI]. Please download and install these plugins to run 'LunaColor'.
 	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
@@ -30,7 +30,7 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[03:38:46] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'ServerOptimizer.jar' in folder 'plugins/.paper-remapped'
+[15:47:29] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'ServerOptimizer.jar' in folder 'plugins/.paper-remapped'
 org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has been compiled by a more recent version of the Java Runtime (class file version 66.0), this version of the Java Runtime only recognizes class file versions up to 65.0
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:129) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
@@ -57,378 +57,91 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:78) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
 	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
 	... 9 more
-[03:38:46] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.154
-[03:38:47] [Server thread/INFO]: [NameTag] Loading server plugin NameTag v1.0
-[03:38:47] [Server thread/INFO]: [setHome] Loading server plugin setHome v1.0
-[03:38:47] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+169-69ed07a
-[03:38:47] [Server thread/INFO]: [Back] Loading server plugin Back v1.8.5
-[03:38:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:38:47] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.154
-[03:38:47] [Server thread/INFO]:         __    
-[03:38:47] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.154
-[03:38:47] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[03:38:47] [Server thread/INFO]: 
-[03:38:47] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[03:38:48] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[03:38:49] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[03:38:49] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[03:38:49] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2444ms)
-[03:38:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:38:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:38:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:38:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:38:49] [Server thread/INFO]: Preparing level "world"
-[03:38:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:38:52] [Server thread/INFO]: Time elapsed: 2302 ms
-[03:38:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:38:53] [Server thread/INFO]: Time elapsed: 527 ms
-[03:38:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:38:53] [Server thread/INFO]: Time elapsed: 203 ms
-[03:38:53] [Server thread/INFO]: [NameTag] Enabling NameTag v1.0
-[03:38:53] [Server thread/INFO]: [setHome] Enabling setHome v1.0
-[03:38:53] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+169-69ed07a
-[03:38:56] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[03:38:57] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[03:38:57] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[03:38:57] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[03:38:57] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
-[03:38:58] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
-[03:38:58] [Server thread/INFO]: [Essentials] Using locale en
-[03:38:58] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[03:38:59] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[03:38:59] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[03:38:59] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[03:38:59] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[03:38:59] [Server thread/INFO]: [Back] Enabling Back v1.8.5
-[03:38:59] [Server thread/ERROR]: [Back] Failed to register events for class me.GFelberg.Back.Main because net/milkbowl/vault/economy/Economy does not exist.
-[03:38:59] [Server thread/INFO]: The death_locations.yml file has been saved
-[03:38:59] [Server thread/INFO]: ----------------------------
-[03:38:59] [Server thread/INFO]: Back Plugin Enabled!
-[03:38:59] [Server thread/INFO]: Vault Plugin or Economy Plugin or both not found! Plugin will works without Vault
-[03:38:59] [Server thread/INFO]: ----------------------------
-[03:39:00] [Server thread/INFO]: [spark] Starting background profiler...
-[03:39:00] [Server thread/INFO]: Done preparing level "world" (11.178s)
-[03:39:00] [Server thread/INFO]: Running delayed init tasks
-[03:39:00] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
-[03:39:00] [Server thread/INFO]: Done (30.549s)! For help, type "help"
-[03:39:00] [Server thread/INFO]: Timings Reset
-[03:39:00] [Craft Scheduler Thread - 2 - Back/INFO]: 
-[03:39:00] [Craft Scheduler Thread - 2 - Back/INFO]: [Back] There is a new update available!
-[03:39:00] [Craft Scheduler Thread - 2 - Back/INFO]: Current Version: 1.8.5
-[03:39:00] [Craft Scheduler Thread - 2 - Back/INFO]: Latest Version: 1.8.6
-[03:39:00] [Craft Scheduler Thread - 2 - Back/INFO]: Link: https://www.spigotmc.org/resources/back.94702/
-[03:39:00] [Craft Scheduler Thread - 2 - Back/INFO]: 
-[03:39:01] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] You're 46 EssentialsX dev build(s) out of date!
-[03:39:01] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
-[03:42:25] [User Authenticator #0/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[03:42:28] [Server thread/INFO]: NachoTrihart joined the game
-[03:42:28] [Server thread/INFO]: NachoTrihart[/127.109.223.80:57707] logged in with entity id 28 at ([world]-475.3391951514957, 71.0, -1180.2688936413629)
-[03:44:48] [User Authenticator #1/INFO]: UUID of player _TeyZen_ is 382d519e-950f-353f-90a7-fa837834c272
-[03:44:51] [Server thread/INFO]: _TeyZen_ joined the game
-[03:44:51] [Server thread/INFO]: _TeyZen_[/127.232.131.72:46819] logged in with entity id 1377 at ([world]-2874.953010426616, 115.0, -1450.4338219030951)
-[03:48:20] [User Authenticator #2/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
-[03:48:29] [Server thread/INFO]: Min_Chulo joined the game
-[03:48:29] [Server thread/INFO]: Min_Chulo[/127.110.17.117:38011] logged in with entity id 2687 at ([world]-575.7477615803973, 79.23667736299484, -1066.3665207242975)
-[03:48:34] [Server thread/INFO]: _TeyZen_ issued server command: /tpa Min_Chulo
-[03:49:05] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
-[03:50:11] [Server thread/INFO]: Min_Chulo issued server command: /kick _TeyZen_
-[03:50:11] [Server thread/INFO]: _TeyZen_ lost connection: Kicked from server.
-[03:50:11] [Server thread/INFO]: _TeyZen_ left the game
-[03:50:11] [Server thread/INFO]: [Essentials] Player Min_Chulo kicked _TeyZen_ for Kicked from server..
-[03:50:13] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
-[03:50:13] [Server thread/INFO]: Min_Chulo left the game
-[03:50:15] [User Authenticator #3/INFO]: UUID of player _TeyZen_ is 382d519e-950f-353f-90a7-fa837834c272
-[03:50:16] [Server thread/INFO]: _TeyZen_ joined the game
-[03:50:16] [Server thread/INFO]: _TeyZen_[/127.232.131.72:37915] logged in with entity id 3355 at ([world]-564.1174007010467, 93.85274226455918, -1090.2139287025852)
-[03:50:37] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
-[03:50:37] [Server thread/INFO]: NachoTrihart left the game
-[03:54:17] [User Authenticator #4/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[03:54:19] [Server thread/INFO]: NachoTrihart joined the game
-[03:54:19] [Server thread/INFO]: NachoTrihart[/127.109.223.80:41913] logged in with entity id 4526 at ([world]-559.7277237417454, 77.0, -1130.9920204633208)
-[03:54:48] [Async Chat Thread - #0/INFO]: [Not Secure] Papu NachoTrihart: _TeyZen_
-[03:54:51] [Async Chat Thread - #0/INFO]: [Not Secure] Papu NachoTrihart: NachoTrihart}
-[03:57:01] [User Authenticator #5/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
-[03:57:12] [Server thread/INFO]: Min_Chulo joined the game
-[03:57:12] [Server thread/INFO]: Min_Chulo[/127.110.17.117:56667] logged in with entity id 5437 at ([world]-554.9927581707601, 75.5, -1089.145644939902)
-[03:58:47] [Server thread/INFO]: Min_Chulo issued server command: /tpa NachoTrihart
-[03:58:56] [Server thread/INFO]: NachoTrihart issued server command: /tpaccept
-[04:01:30] [Server thread/INFO]: _TeyZen_ issued server command: /tpa Min_Chulo
-[04:01:33] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
-[04:01:54] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
-[04:01:54] [Server thread/INFO]: NachoTrihart left the game
-[04:01:59] [User Authenticator #6/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[04:02:00] [Server thread/INFO]: NachoTrihart joined the game
-[04:02:00] [Server thread/INFO]: NachoTrihart[/127.109.223.80:56085] logged in with entity id 7445 at ([world]-594.9511581387607, 84.0, -1299.0648447097487)
-[04:02:03] [Server thread/INFO]: Min_Chulo issued server command: /ec
-[04:02:11] [Server thread/INFO]: Min_Chulo issued server command: /ec
-[04:02:44] [Server thread/INFO]: Min_Chulo issued server command: /ec
-[04:03:28] [Server thread/WARN]: NachoTrihart moved too quickly! 43.70993035788047,9.691363067265613,-4.86252693855613
-[04:03:55] [Server thread/INFO]: NachoTrihart issued server command: /ec
-[04:05:16] [Server thread/INFO]: Min_Chulo issued server command: /ec
-[04:05:59] [Server thread/INFO]: Min_Chulo issued server command: /summon minecraft:lightning_bolt _Teyzen_
-[04:06:07] [Server thread/INFO]: Min_Chulo issued server command: /summon minecraft:lightning_bolt ~ ~ ~
-[04:06:07] [Server thread/INFO]: [Min_Chulo: Summoned new Lightning Bolt]
-[04:06:08] [Server thread/WARN]: Player NachoTrihart just tried to change non-editable sign
-[04:06:11] [Server thread/INFO]: Min_Chulo issued server command: /summon minecraft:lightning_bolt ~ ~ ~
-[04:06:11] [Server thread/INFO]: [Min_Chulo: Summoned new Lightning Bolt]
-[04:06:35] [Async Chat Thread - #2/INFO]: [Not Secure] Papu Min_Chulo: asd
-[04:07:14] [Server thread/INFO]: Min_Chulo issued server command: /ec
-[04:07:18] [Server thread/INFO]: Min_Chulo issued server command: /home
-[04:07:21] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
-[04:07:21] [Server thread/INFO]: NachoTrihart left the game
-[04:08:18] [Server thread/INFO]: Min_Chulo issued server command: /home
-[04:08:29] [Server thread/INFO]: Min_Chulo issued server command: /ec
-[04:08:39] [Server thread/INFO]: Villager Villager['Armorer'/241, uuid='f49d1944-f69d-4d76-b623-e353aa0a0eb3', l='ServerLevel[world]', x=-382.59, y=69.00, z=-1224.63, cpos=[-24, -77], tl=1773384, v=true] died, message: 'Armorer was burned to a crisp while fighting _TeyZen_'
-[04:14:11] [User Authenticator #7/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[04:14:12] [Server thread/INFO]: NachoTrihart joined the game
-[04:14:12] [Server thread/INFO]: NachoTrihart[/127.109.223.80:52255] logged in with entity id 10742 at ([world]-585.4944923750708, 82.0, -1281.9519981148803)
-[04:15:55] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
-[04:15:55] [Server thread/INFO]: NachoTrihart left the game
-[04:16:01] [User Authenticator #8/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[04:16:03] [Server thread/INFO]: NachoTrihart joined the game
-[04:16:03] [Server thread/INFO]: NachoTrihart[/127.109.223.80:47795] logged in with entity id 11159 at ([world]-540.3000000119209, 68.0, -1250.3193143838278)
-[04:16:09] [Server thread/INFO]: NachoTrihart was slain by _TeyZen_
-[04:16:09] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
-[04:16:09] [Server thread/INFO]: NachoTrihart left the game
-[04:16:30] [Server thread/INFO]: Min_Chulo issued server command: /ec
-[04:16:35] [User Authenticator #8/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[04:16:36] [Server thread/INFO]: NachoTrihart joined the game
-[04:16:36] [Server thread/INFO]: NachoTrihart[/127.109.223.80:36131] logged in with entity id 11341 at ([world]-540.3000000119209, 68.0, -1250.300000011921)
-[04:17:26] [Server thread/INFO]: NachoTrihart issued server command: /home
-[04:18:26] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
-[04:18:26] [Server thread/INFO]: NachoTrihart left the game
-[04:20:00] [User Authenticator #9/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[04:20:02] [Server thread/INFO]: NachoTrihart joined the game
-[04:20:02] [Server thread/INFO]: NachoTrihart[/127.109.223.80:49109] logged in with entity id 12057 at ([world]-470.052662018223, 71.0, -1167.8229464481028)
-[04:20:59] [Server thread/INFO]: Min_Chulo issued server command: /ec
-[04:21:24] [Server thread/INFO]: Min_Chulo issued server command: /ec
-[04:21:29] [Server thread/INFO]: _TeyZen_ has made the advancement [Who Needs Rockets?]
-[04:22:30] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:levitation 30 4
-[04:22:30] [Server thread/INFO]: [Min_Chulo: Applied effect Levitation to _TeyZen_]
-[04:22:37] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:levitation 30 4
-[04:22:37] [Server thread/INFO]: [Min_Chulo: Applied effect Levitation to _TeyZen_]
-[04:22:41] [Server thread/INFO]: _TeyZen_ has completed the challenge [Great View From Up Here]
-[04:22:55] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:levitation 30 4
-[04:22:55] [Server thread/INFO]: [Min_Chulo: Applied effect Levitation to _TeyZen_]
-[04:22:57] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
-[04:22:57] [Server thread/INFO]: NachoTrihart left the game
-[04:23:15] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:blindness infinite
-[04:23:15] [Server thread/INFO]: [Min_Chulo: Applied effect Blindness to _TeyZen_]
-[04:23:28] [Server thread/INFO]: Min_Chulo issued server command: /effect clear _TeyZen_
-[04:23:28] [Server thread/INFO]: [Min_Chulo: Removed every effect from _TeyZen_]
-[04:24:01] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:glowing 10 1
-[04:24:01] [Server thread/INFO]: [Min_Chulo: Applied effect Glowing to _TeyZen_]
-[04:24:21] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:wind_charged infinite
-[04:24:21] [Server thread/INFO]: [Min_Chulo: Applied effect Wind Charged to _TeyZen_]
-[04:24:36] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:darkness infinite
-[04:24:36] [Server thread/INFO]: [Min_Chulo: Applied effect Darkness to _TeyZen_]
-[04:24:47] [Server thread/INFO]: Min_Chulo issued server command: /effect clear _TeyZen_
-[04:24:47] [Server thread/INFO]: [Min_Chulo: Removed every effect from _TeyZen_]
-[04:25:00] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:unluck
-[04:25:00] [Server thread/INFO]: [Min_Chulo: Applied effect Bad Luck to _TeyZen_]
-[04:25:26] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:absorption infinite 255
-[04:25:26] [Server thread/INFO]: [Min_Chulo: Applied effect Absorption to _TeyZen_]
-[04:25:40] [Server thread/INFO]: Min_Chulo issued server command: /effect give Min_Chulo minecraft:absorption infinite 255
-[04:25:40] [Server thread/INFO]: [Min_Chulo: Applied effect Absorption to Min_Chulo]
-[04:26:33] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:wind
-[04:26:33] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:wind to Min_Chulo]
-[04:26:52] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient _TeyZen_
-[04:27:01] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient
-[04:27:01] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to Min_Chulo]
-[04:27:11] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient _TeyZen_
-[04:27:16] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient _TeyZen_
-[04:27:26] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient @a
-[04:27:26] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
-[04:27:34] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient @a
-[04:27:35] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
-[04:27:42] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient @a
-[04:27:42] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
-[04:27:42] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient @a
-[04:27:42] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
-[04:27:43] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient @a
-[04:27:43] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
-[04:27:44] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient @a
-[04:27:44] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
-[04:27:45] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient @a
-[04:27:45] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
-[04:27:45] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click ambient @a
-[04:27:45] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
-[04:27:56] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click player @a
-[04:27:56] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
-[04:28:03] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click player @a
-[04:28:03] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
-[04:28:04] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click player @a
-[04:28:04] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
-[04:28:05] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click player @a
-[04:28:05] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
-[04:28:06] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click player @a
-[04:28:06] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
-[04:28:07] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:ui.button.click player @a
-[04:28:07] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:ui.button.click to 2 players]
-[04:28:20] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:block.anvil.fall player @a
-[04:28:20] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:block.anvil.fall to 2 players]
-[04:28:21] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:block.anvil.fall player @a
-[04:28:21] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:block.anvil.fall to 2 players]
-[04:28:28] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:block.anvil.destroy player @a
-[04:28:28] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:block.anvil.destroy to 2 players]
-[04:28:36] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:block.anvil.break player @e
-[04:28:39] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:block.anvil.break player @a
-[04:28:39] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:block.anvil.break to 2 players]
-[04:28:42] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:block.anvil.break player @a
-[04:28:42] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:block.anvil.break to 2 players]
-[04:28:48] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:block.anvil.place player @a
-[04:28:48] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:block.anvil.place to 2 players]
-[04:28:52] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:block.anvil.place player
-[04:28:52] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:block.anvil.place to Min_Chulo]
-[04:28:56] [Server thread/INFO]: Min_Chulo issued server command: /playsound minecraft:block.anvil.place player _TeyZen_
-[04:28:56] [Server thread/INFO]: [Min_Chulo: Played sound minecraft:block.anvil.place to _TeyZen_]
-[04:29:09] [Server thread/INFO]: Min_Chulo issued server command: /ping
-[04:29:32] [Server thread/INFO]: Min_Chulo issued server command: /adventuremode _TeyZen_
-[04:29:45] [Server thread/INFO]: Min_Chulo issued server command: /effect clear @a
-[04:29:45] [Server thread/INFO]: [Min_Chulo: Removed every effect from 2 targets]
-[04:29:56] [Server thread/INFO]: Min_Chulo issued server command: /survivalmode _TeyZen_
-[04:30:42] [Server thread/INFO]: Min_Chulo issued server command: /craft
-[04:31:11] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
-[04:32:42] [User Authenticator #10/INFO]: UUID of player NachoTrihart is d056ed69-784f-36a0-bf2b-cdacad8c715d
-[04:32:44] [Server thread/INFO]: NachoTrihart joined the game
-[04:32:44] [Server thread/INFO]: NachoTrihart[/127.109.223.80:51251] logged in with entity id 14522 at ([world]-597.881370282405, 85.0, -1275.9780155484937)
-[04:33:02] [Async Chat Thread - #4/INFO]: [Not Secure] Papu NachoTrihart: listo
-[04:33:53] [Server thread/INFO]: Min_Chulo issued server command: /vanish
-[04:35:23] [Server thread/INFO]: NachoTrihart issued server command: /ec
-[04:35:46] [Server thread/INFO]: Min_Chulo issued server command: /effect give Min_Chulo minecraft:strength infinite 255
-[04:35:46] [Server thread/INFO]: [Min_Chulo: Applied effect Strength to Min_Chulo]
-[04:36:17] [Server thread/INFO]: Min_Chulo has completed the challenge [It Spreads]
-[04:41:22] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
-[04:41:22] [Server thread/INFO]: NachoTrihart left the game
-[04:43:54] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:absorption infinite 255
-[04:43:54] [Server thread/INFO]: [Min_Chulo: Applied effect Absorption to _TeyZen_]
-[04:44:02] [Server thread/INFO]: Min_Chulo issued server command: /tp _TeyZen_ Min_Chulo
-[04:44:32] [Server thread/INFO]: Min_Chulo issued server command: /tp _TeyZen_ Min_Chulo
-[04:44:38] [Server thread/INFO]: Min_Chulo issued server command: /tp _TeyZen_ Min_Chulo
-[04:46:58] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:slowness infinite 2
-[04:46:58] [Server thread/INFO]: [Min_Chulo: Applied effect Slowness to _TeyZen_]
-[04:47:38] [Server thread/INFO]: Min_Chulo issued server command: /give _TeyZen_ minecraft:cookie 19999999
-[04:47:45] [Server thread/INFO]: Min_Chulo issued server command: /give _TeyZen_ minecraft:cookie 19999999
-[04:47:47] [Server thread/INFO]: Min_Chulo issued server command: /give _TeyZen_ minecraft:cookie 19999999
-[04:49:09] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:speed 255
-[04:49:09] [Server thread/INFO]: [Min_Chulo: Applied effect Speed to _TeyZen_]
-[04:49:50] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:speed 255
-[04:49:50] [Server thread/INFO]: [Min_Chulo: Applied effect Speed to _TeyZen_]
-[04:49:53] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:speed 25
-[04:50:03] [Server thread/INFO]: Min_Chulo issued server command: /effect clear _TeyZen_
-[04:50:03] [Server thread/INFO]: [Min_Chulo: Removed every effect from _TeyZen_]
-[04:50:16] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:speed infinite 25
-[04:50:16] [Server thread/INFO]: [Min_Chulo: Applied effect Speed to _TeyZen_]
-[04:50:21] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:speed infinite 255
-[04:50:21] [Server thread/INFO]: [Min_Chulo: Applied effect Speed to _TeyZen_]
-[04:50:22] [Server thread/WARN]: _TeyZen_ moved too quickly! -12.175329928606402,0.0,1.7348358025972175
-[04:50:23] [Server thread/WARN]: _TeyZen_ moved too quickly! -10.249162005731478,0.0,1.0752513110430755
-[04:50:23] [Server thread/WARN]: _TeyZen_ moved too quickly! -10.243048883392703,0.0,1.1302921577430425
-[04:50:23] [Server thread/WARN]: _TeyZen_ moved too quickly! -12.202675871953375,0.0,1.3482470357198508
-[04:50:48] [Server thread/INFO]: Min_Chulo issued server command: /tp _TeyZen_ _TeyZen_
-[04:50:54] [Server thread/INFO]: Min_Chulo issued server command: /tp _TeyZen_ Min_Chulo
-[04:51:05] [Server thread/INFO]: Min_Chulo issued server command: /effect clear _TeyZen_
-[04:51:05] [Server thread/INFO]: [Min_Chulo: Removed every effect from _TeyZen_]
-[04:51:08] [Server thread/INFO]: Min_Chulo issued server command: /tp _TeyZen_ Min_Chulo
-[04:53:10] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.28724334980415733
-[04:53:10] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.35457442319852817
-[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.5706631301961806
-[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.5706631301961806
-[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.5706631301961806
-[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.5706631301961806
-[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.5002035734098627
-[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.5706631301961806
-[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.5706631301961806
-[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.5002254184324784
-[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.4302509125686811
-[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.36082656654707534
-[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.2918973859198104
-[04:53:11] [Server thread/WARN]: Bamboo Raft (vehicle of Min_Chulo) moved wrongly! 0.5706631301961806
-[04:53:16] [Server thread/WARN]: Bamboo Raft (vehicle of _TeyZen_) moved wrongly! 5.685334665810342
-[04:53:57] [Server thread/INFO]: _TeyZen_ has made the advancement [Best Friends Forever]
-[04:55:54] [Server thread/INFO]: Min_Chulo issued server command: /capes
-[04:57:07] [Server thread/INFO]: Min_Chulo issued server command: /tp _TeyZen_ Min_Chulo
-[04:57:49] [Server thread/INFO]: Min_Chulo issued server command: /tp Min_Chulo _TeyZen_
-[05:00:30] [Server thread/INFO]: Min_Chulo issued server command: /efeed Min_Chulo
-[05:00:48] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 22
-[05:00:48] [Server thread/INFO]: [Min_Chulo: Applied effect Jump Boost to _TeyZen_]
-[05:00:52] [Server thread/INFO]: Min_Chulo issued server command: /tp Min_Chulo _TeyZen_
-[05:00:57] [Server thread/INFO]: _TeyZen_ issued server command: /home
-[05:01:02] [Server thread/INFO]: Min_Chulo issued server command: /tp Min_Chulo _TeyZen_
-[05:01:08] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 50
-[05:01:08] [Server thread/INFO]: [Min_Chulo: Applied effect Jump Boost to _TeyZen_]
-[05:01:22] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 50 25
-[05:01:22] [Server thread/INFO]: [Min_Chulo: Applied effect Jump Boost to _TeyZen_]
-[05:01:40] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 50 50
-[05:01:40] [Server thread/INFO]: [Min_Chulo: Applied effect Jump Boost to _TeyZen_]
-[05:01:53] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 50 100
-[05:01:53] [Server thread/INFO]: [Min_Chulo: Applied effect Jump Boost to _TeyZen_]
-[05:02:02] [Server thread/WARN]: _TeyZen_ moved too quickly! -0.009351134221560642,10.520000457763672,0.006574669830797575
-[05:02:04] [Server thread/WARN]: _TeyZen_ moved too quickly! -0.15724325839892117,10.520000457763672,-0.09753448748915616
-[05:02:05] [Server thread/WARN]: _TeyZen_ moved too quickly! -0.24631769525785785,10.520000457763672,-0.1750356077241122
-[05:02:05] [Server thread/WARN]: _TeyZen_ moved too quickly! -0.1648394001581437,10.520000457763672,-0.11713638580999941
-[05:02:06] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.018905385067228053,10.520000457763672,0.0397801623853411
-[05:02:07] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:07] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:08] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:08] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:09] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:09] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:10] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:11] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:11] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:12] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:12] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:13] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:13] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:14] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:14] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:15] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:15] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 50 99
-[05:02:15] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:16] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:16] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:17] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:19] [Server thread/WARN]: _TeyZen_ moved too quickly! -0.2108608706839732,10.520000457763672,0.03556017497339781
-[05:02:19] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:20] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:20] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:21] [Server thread/WARN]: _TeyZen_ moved too quickly! 0.0,10.520000457763672,0.0
-[05:02:23] [Server thread/INFO]: Min_Chulo issued server command: /effect clear _TeyZen_
-[05:02:23] [Server thread/INFO]: [Min_Chulo: Removed every effect from _TeyZen_]
-[05:02:31] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ 75
-[05:02:49] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 75
-[05:02:49] [Server thread/INFO]: [Min_Chulo: Applied effect Jump Boost to _TeyZen_]
-[05:02:57] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 75 75
-[05:02:57] [Server thread/INFO]: [Min_Chulo: Applied effect Jump Boost to _TeyZen_]
-[05:03:11] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 75 80
-[05:03:11] [Server thread/INFO]: [Min_Chulo: Applied effect Jump Boost to _TeyZen_]
-[05:03:14] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:jump_boost 75 90
-[05:03:14] [Server thread/INFO]: [Min_Chulo: Applied effect Jump Boost to _TeyZen_]
-[05:03:32] [Server thread/INFO]: Min_Chulo issued server command: /effect clear _TeyZen_
-[05:03:32] [Server thread/INFO]: [Min_Chulo: Removed every effect from _TeyZen_]
-[05:03:49] [Server thread/INFO]: _TeyZen_ lost connection: Disconnected
-[05:03:49] [Server thread/INFO]: _TeyZen_ left the game
-[05:03:50] [Server thread/INFO]: Min_Chulo issued server command: /effect give _TeyZen_ minecraft:oozing infinite 124
-[05:03:52] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
-[05:03:52] [Server thread/INFO]: Min_Chulo left the game
+[15:47:29] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.154
+[15:47:30] [Server thread/INFO]: [NameTag] Loading server plugin NameTag v1.0
+[15:47:30] [Server thread/INFO]: [setHome] Loading server plugin setHome v1.0
+[15:47:30] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+169-69ed07a
+[15:47:30] [Server thread/INFO]: [Back] Loading server plugin Back v1.8.5
+[15:47:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:47:30] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.154
+[15:47:31] [Server thread/INFO]:         __    
+[15:47:31] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.154
+[15:47:31] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[15:47:31] [Server thread/INFO]: 
+[15:47:31] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[15:47:32] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[15:47:33] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[15:47:34] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[15:47:35] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 4844ms)
+[15:47:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:47:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:47:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:47:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:47:35] [Server thread/INFO]: Preparing level "world"
+[15:47:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:47:40] [Server thread/INFO]: Time elapsed: 3181 ms
+[15:47:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:47:41] [Server thread/INFO]: Time elapsed: 727 ms
+[15:47:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:47:41] [Server thread/INFO]: Time elapsed: 316 ms
+[15:47:41] [Server thread/INFO]: [NameTag] Enabling NameTag v1.0
+[15:47:41] [Server thread/INFO]: [setHome] Enabling setHome v1.0
+[15:47:41] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+169-69ed07a
+[15:47:44] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[15:47:45] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[15:47:45] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[15:47:46] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[15:47:46] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[15:47:46] [Server thread/INFO]: [Essentials] Using locale en
+[15:47:47] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[15:47:48] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[15:47:48] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[15:47:48] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[15:47:48] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[15:47:48] [Server thread/INFO]: [Back] Enabling Back v1.8.5
+[15:47:48] [Server thread/ERROR]: [Back] Failed to register events for class me.GFelberg.Back.Main because net/milkbowl/vault/economy/Economy does not exist.
+[15:47:48] [Server thread/INFO]: The death_locations.yml file has been saved
+[15:47:48] [Server thread/INFO]: ----------------------------
+[15:47:48] [Server thread/INFO]: Back Plugin Enabled!
+[15:47:48] [Server thread/INFO]: Vault Plugin or Economy Plugin or both not found! Plugin will works without Vault
+[15:47:48] [Server thread/INFO]: ----------------------------
+[15:47:48] [Server thread/INFO]: [spark] Starting background profiler...
+[15:47:50] [Server thread/INFO]: Done preparing level "world" (15.048s)
+[15:47:50] [Server thread/INFO]: Running delayed init tasks
+[15:47:50] [Server thread/INFO]: Done (48.715s)! For help, type "help"
+[15:47:50] [Server thread/INFO]: Timings Reset
+[15:47:50] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[15:47:50] [Craft Scheduler Thread - 2 - Back/INFO]: 
+[15:47:50] [Craft Scheduler Thread - 2 - Back/INFO]: [Back] There is a new update available!
+[15:47:50] [Craft Scheduler Thread - 2 - Back/INFO]: Current Version: 1.8.5
+[15:47:50] [Craft Scheduler Thread - 2 - Back/INFO]: Latest Version: 1.8.6
+[15:47:50] [Craft Scheduler Thread - 2 - Back/INFO]: Link: https://www.spigotmc.org/resources/back.94702/
+[15:47:50] [Craft Scheduler Thread - 2 - Back/INFO]: 
+[15:47:50] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] You're 49 EssentialsX dev build(s) out of date!
+[15:47:50] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[15:50:43] [User Authenticator #0/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[15:50:55] [Server thread/INFO]: Min_Chulo joined the game
+[15:50:55] [Server thread/INFO]: Min_Chulo[/127.220.87.6:57909] logged in with entity id 28 at ([world]-2905.8927311021994, 93.02107938559216, -1485.1548495484687)
+[15:50:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
+[15:51:51] [Server thread/INFO]: Min_Chulo issued server command: /home
