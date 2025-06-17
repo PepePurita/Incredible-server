@@ -5303,15 +5303,27 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "minecraft:adventure/who_needs_rockets": {
     "criteria": {
-      "tamed_animal": "2025-06-06 04:53:57 +0000"
+      "who_needs_rockets": "2025-06-06 04:21:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_candle": {
+  "minecraft:end/levitate": {
     "criteria": {
-      "has_cyan_dye": "2025-06-06 05:01:12 +0000"
+      "levitated": "2025-06-06 04:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-06-06 04:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-06-06 04:27:18 +0000"
     },
     "done": true
   },
@@ -5327,30 +5339,6 @@
     },
     "done": true
   },
-  "minecraft:end/levitate": {
-    "criteria": {
-      "levitated": "2025-06-06 04:22:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
-    "criteria": {
-      "has_pitcher_plant": "2025-06-06 04:52:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_cyan_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-06 05:01:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-06-06 04:27:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
       "has_wet_sponge": "2025-06-06 04:39:54 +0000"
@@ -5363,21 +5351,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_cyan_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-06-06 05:01:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-06-06 04:39:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-06-06 05:01:12 +0000"
     },
     "done": true
   },
@@ -5393,15 +5369,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
     "criteria": {
-      "has_pumpkin": "2025-06-06 04:27:18 +0000"
+      "has_pitcher_plant": "2025-06-06 04:52:07 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/who_needs_rockets": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "who_needs_rockets": "2025-06-06 04:21:29 +0000"
+      "tamed_animal": "2025-06-06 04:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2025-06-06 05:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-06 05:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-06 05:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-06 05:01:12 +0000"
     },
     "done": true
   },

@@ -145,3 +145,25 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [15:50:55] [Server thread/INFO]: Min_Chulo[/127.220.87.6:57909] logged in with entity id 28 at ([world]-2905.8927311021994, 93.02107938559216, -1485.1548495484687)
 [15:50:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
 [15:51:51] [Server thread/INFO]: Min_Chulo issued server command: /home
+[16:29:51] [User Authenticator #1/INFO]: UUID of player _TeyZen_ is 382d519e-950f-353f-90a7-fa837834c272
+[16:29:54] [Server thread/INFO]: _TeyZen_ joined the game
+[16:29:54] [Server thread/INFO]: _TeyZen_[/127.179.29.228:53157] logged in with entity id 6829 at ([world]-2917.7428320432973, 63.0, -1472.1030205273312)
+[16:30:08] [Async Chat Thread - #1/INFO]: [Not Secure] Papu _TeyZen_: 20 minutes y nos vamos para fisica
+[16:30:21] [Server thread/INFO]: _TeyZen_ issued server command: /tpa Min_Chulo
+[16:30:30] [Server thread/INFO]: _TeyZen_ issued server command: /home
+[16:32:17] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[16:32:17] [Server thread/INFO]: Min_Chulo left the game
+[16:33:35] [User Authenticator #2/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[16:33:50] [Server thread/INFO]: Min_Chulo joined the game
+[16:33:50] [Server thread/INFO]: Min_Chulo[/127.240.87.204:50895] logged in with entity id 8129 at ([world]-649.6063983210455, 76.0, -1082.2198461097114)
+[16:34:27] [Async Chat Thread - #2/INFO]: [Not Secure] Papu Min_Chulo: quise poner pantalla completa y casi fundo la pc
+[16:36:01] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
+[16:36:02] [Server thread/INFO]: _TeyZen_ lost connection: Disconnected
+[16:36:02] [Server thread/INFO]: _TeyZen_ left the game
+[16:36:05] [User Authenticator #3/INFO]: UUID of player _TeyZen_ is 382d519e-950f-353f-90a7-fa837834c272
+[16:36:06] [Server thread/INFO]: _TeyZen_ joined the game
+[16:36:06] [Server thread/INFO]: _TeyZen_[/127.179.29.228:35115] logged in with entity id 9578 at ([world]-2879.891890889275, 115.0, -1458.330000013113)
+[16:37:03] [Async Chat Thread - #4/INFO]: [Not Secure] Papu Min_Chulo: asdasd
+[16:37:11] [Server thread/INFO]: _TeyZen_ lost connection: Timed out
+[16:37:11] [Server thread/INFO]: _TeyZen_ left the game
+[16:37:24] [Server thread/INFO]: Min_Chulo issued server command: /ec
