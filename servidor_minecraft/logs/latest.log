@@ -168,3 +168,24 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [16:49:44] [Async Chat Thread - #2/INFO]: [Not Secure] Papu Min_Chulo: a
 [16:50:12] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
 [17:09:26] [Server thread/INFO]: Min_Chulo issued server command: /trash
+[17:16:04] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[17:16:04] [Server thread/INFO]: Min_Chulo left the game
+[17:17:26] [User Authenticator #3/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[17:17:28] [Server thread/INFO]: Min_Chulo joined the game
+[17:17:28] [Server thread/INFO]: Min_Chulo[/127.150.150.204:59629] logged in with entity id 11068 at ([world]-426.2496143100485, 75.1247154090962, -1101.2296002938185)
+[17:18:03] [Async Chat Thread - #4/INFO]: [Not Secure] Papu Min_Chulo: a
+[17:18:32] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[17:18:32] [Server thread/INFO]: Min_Chulo left the game
+[17:19:10] [User Authenticator #4/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[17:19:12] [Server thread/INFO]: Min_Chulo joined the game
+[17:19:12] [Server thread/INFO]: Min_Chulo[/127.150.150.204:45507] logged in with entity id 12101 at ([world]-375.5359646491933, 66.0, -1109.339003410855)
+[17:19:20] [Async Chat Thread - #6/INFO]: [Not Secure] Papu Min_Chulo: a
+[17:19:59] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[17:19:59] [Server thread/INFO]: Min_Chulo left the game
+[17:20:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+a<--[HERE]
+[17:20:32] [User Authenticator #5/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[17:20:34] [Server thread/INFO]: Min_Chulo joined the game
+[17:20:34] [Server thread/INFO]: Min_Chulo[/127.150.150.204:43237] logged in with entity id 13065 at ([world]-359.64729598507176, 67.0, -1105.9324514424848)
+[17:20:41] [Async Chat Thread - #8/INFO]: [Not Secure] Papu Min_Chulo: a
+[17:20:45] [Async Chat Thread - #8/INFO]: [Not Secure] Papu Min_Chulo: a
