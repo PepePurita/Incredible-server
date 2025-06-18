@@ -515,3 +515,42 @@ asd<--[HERE]
 [21:39:35] [User Authenticator #26/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
 [21:39:36] [Server thread/INFO]: Min_Chulo joined the game
 [21:39:36] [Server thread/INFO]: Min_Chulo[/127.150.150.204:43307] logged in with entity id 176877 at ([world]689.5756819207595, 63.0, -1448.4898230249887)
+[21:41:20] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[21:41:20] [Server thread/INFO]: Min_Chulo left the game
+[21:41:51] [Server thread/INFO]: Toxcraft456 lost connection: Disconnected
+[21:41:51] [Server thread/INFO]: Toxcraft456 left the game
+[21:42:09] [Server thread/INFO]: Stopping the server
+[21:42:09] [Server thread/INFO]: Stopping server
+[21:42:09] [Server thread/INFO]: [Back] Disabling Back v1.8.5
+[21:42:09] [Server thread/INFO]: ----------------------------
+[21:42:09] [Server thread/INFO]: Back Plugin Disabled!
+[21:42:09] [Server thread/INFO]: Plugin developed by GFelberg
+[21:42:09] [Server thread/INFO]: ----------------------------
+[21:42:09] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+169-69ed07a
+[21:42:09] [Server thread/INFO]: [setHome] Disabling setHome v1.0
+[21:42:09] [Server thread/INFO]: [NameTag] Disabling NameTag v1.0
+[21:42:09] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.154
+[21:42:09] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[21:42:09] [Server thread/INFO]: [LuckPerms] Closing storage...
+[21:42:09] [Server thread/INFO]: [LuckPerms] Goodbye!
+[21:42:09] [Server thread/INFO]: Saving players
+[21:42:09] [Server thread/INFO]: Saving worlds
+[21:42:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:42:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[21:42:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[21:42:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[21:42:09] [Server thread/INFO]: [ChunkHolderManager] Saved 6 block chunks, 99 entity chunks, 0 poi chunks in world 'world' in 0.18s
+[21:42:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:42:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[21:42:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[21:42:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[21:42:10] [Server thread/INFO]: [ChunkHolderManager] Saved 90 block chunks, 143 entity chunks, 0 poi chunks in world 'world_nether' in 0.14s
+[21:42:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:42:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[21:42:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[21:42:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[21:42:10] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 17 entity chunks, 0 poi chunks in world 'world_the_end' in 0.05s
+[21:42:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:42:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:42:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:42:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
