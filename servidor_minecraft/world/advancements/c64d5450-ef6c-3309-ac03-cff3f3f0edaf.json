@@ -6227,5 +6227,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-06-18 19:47:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

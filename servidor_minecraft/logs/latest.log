@@ -304,3 +304,17 @@ asd<--[HERE]
 [19:42:30] [Server thread/INFO]: Min_Chulo issued server command: /tpa Toxcraft456
 [19:42:39] [Server thread/INFO]: Toxcraft456 issued server command: /tpaccept
 [19:43:35] [Server thread/INFO]: Min_Chulo issued server command: /home
+[19:47:19] [Server thread/WARN]: Min_Chulo moved wrongly!
+[19:47:27] [Server thread/INFO]: Min_Chulo issued server command: /home
+[19:47:40] [Server thread/INFO]: Min_Chulo issued server command: /tpa Toxcraft456
+[19:47:43] [Server thread/INFO]: Toxcraft456 issued server command: /tpaccept
+[19:47:48] [Server thread/INFO]: Min_Chulo has made the advancement [Light as a Rabbit]
+[19:47:56] [Server thread/INFO]: Min_Chulo issued server command: /home
+[19:47:57] [Server thread/INFO]: Toxcraft456 has made the advancement [Light as a Rabbit]
+[19:48:13] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[19:48:39] [Server thread/INFO]: Min_Chulo issued server command: /sell hand 1 5000
+[19:51:21] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[19:53:43] [Server thread/INFO]: Toxcraft456 issued server command: /home
+[19:56:12] [Server thread/INFO]: Min_Chulo issued server command: /home
+[19:56:19] [Server thread/INFO]: Toxcraft456 issued server command: /tpa Min_Chulo
+[19:56:48] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept

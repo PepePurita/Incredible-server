@@ -5354,6 +5354,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-06-18 19:47:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
       "has_wet_sponge": "2025-06-18 19:19:47 +0000"
