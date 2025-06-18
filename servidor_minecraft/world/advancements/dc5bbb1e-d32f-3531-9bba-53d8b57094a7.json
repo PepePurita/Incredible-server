@@ -5342,6 +5342,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/repair_wolf_armor": {
+    "criteria": {
+      "repair_wolf_armor": "2025-06-18 19:37:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-06-18 19:18:41 +0000"
