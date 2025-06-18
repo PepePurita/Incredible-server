@@ -261,3 +261,6 @@ asd<--[HERE]
 [18:51:12] [Server thread/INFO]: Toxcraft456 issued server command: /ec
 [18:52:55] [Server thread/INFO]: Toxcraft456 lost connection: Disconnected
 [18:52:55] [Server thread/INFO]: Toxcraft456 left the game
+[18:59:21] [User Authenticator #11/INFO]: UUID of player Toxcraft456 is dc5bbb1e-d32f-3531-9bba-53d8b57094a7
+[18:59:23] [Server thread/INFO]: Toxcraft456 joined the game
+[18:59:23] [Server thread/INFO]: Toxcraft456[/127.67.153.152:37489] logged in with entity id 57673 at ([world]1719.6421360583827, 67.0, -1816.9615334361945)
