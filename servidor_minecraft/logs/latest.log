@@ -148,3 +148,22 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [15:52:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2560ms or 51 ticks behind
 [16:18:07] [Server thread/INFO]: Min_Chulo issued server command: /home
 [16:22:49] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
+[16:47:20] [User Authenticator #1/INFO]: UUID of player _TeyZen_ is 382d519e-950f-353f-90a7-fa837834c272
+[16:47:23] [Server thread/INFO]: _TeyZen_ joined the game
+[16:47:23] [Server thread/INFO]: _TeyZen_[/127.200.105.153:48991] logged in with entity id 7220 at ([world]-385.220836726202, 71.0, -1228.025700265492)
+[16:47:31] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[16:47:31] [Server thread/INFO]: Min_Chulo left the game
+[16:47:42] [User Authenticator #1/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[16:47:44] [Server thread/INFO]: Min_Chulo joined the game
+[16:47:44] [Server thread/INFO]: Min_Chulo[/127.150.150.204:44581] logged in with entity id 7302 at ([world]-397.71610003059027, 65.0, -1152.300000011921)
+[16:48:17] [Async Chat Thread - #1/INFO]: [Not Secure] Papu Min_Chulo: a
+[16:48:36] [Server thread/INFO]: _TeyZen_ lost connection: Timed out
+[16:48:36] [Server thread/INFO]: _TeyZen_ left the game
+[16:48:57] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
+[16:49:06] [User Authenticator #2/INFO]: UUID of player _TeyZen_ is 382d519e-950f-353f-90a7-fa837834c272
+[16:49:08] [Server thread/INFO]: _TeyZen_ joined the game
+[16:49:08] [Server thread/INFO]: _TeyZen_[/127.200.105.153:50455] logged in with entity id 7574 at ([world]-425.955000013113, 71.24947197770308, -1246.5924395917575)
+[16:49:27] [Server thread/INFO]: _TeyZen_ lost connection: Disconnected
+[16:49:27] [Server thread/INFO]: _TeyZen_ left the game
+[16:49:44] [Async Chat Thread - #2/INFO]: [Not Secure] Papu Min_Chulo: a
+[16:50:12] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
