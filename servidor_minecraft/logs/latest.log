@@ -449,3 +449,40 @@ asd<--[HERE]
 [21:20:32] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
 [21:20:32] [Server thread/INFO]: Min_Chulo left the game
 [21:20:35] [User Authenticator #17/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[21:20:37] [Server thread/INFO]: Min_Chulo joined the game
+[21:20:38] [Server thread/INFO]: Min_Chulo[/127.150.150.204:33089] logged in with entity id 173440 at ([world]719.5, 59.080004272328374, -1424.5)
+[21:21:12] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[21:21:12] [Server thread/INFO]: Min_Chulo left the game
+[21:21:25] [User Authenticator #17/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[21:21:26] [Server thread/INFO]: Min_Chulo joined the game
+[21:21:26] [Server thread/INFO]: Min_Chulo[/127.150.150.204:43949] logged in with entity id 173548 at ([world]718.4346807503705, 53.37246462737617, -1424.3244762304423)
+[21:22:29] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[21:22:29] [Server thread/INFO]: Min_Chulo left the game
+[21:22:58] [User Authenticator #18/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[21:23:00] [Server thread/INFO]: Min_Chulo joined the game
+[21:23:00] [Server thread/INFO]: Min_Chulo[/127.150.150.204:51325] logged in with entity id 173707 at ([world]718.6859662274433, 41.38623999956131, -1489.3521218469507)
+[21:23:28] [Async Chat Thread - #43/INFO]: [Not Secure] Papu Min_Chulo: a
+[21:23:40] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[21:23:40] [Server thread/INFO]: Min_Chulo left the game
+[21:24:33] [User Authenticator #19/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[21:24:40] [Server thread/INFO]: Min_Chulo joined the game
+[21:24:40] [Server thread/INFO]: Min_Chulo[/127.150.150.204:33519] logged in with entity id 173974 at ([world]753.9444978178282, 46.19135691242548, -1458.3405388621914)
+[21:25:15] [Async Chat Thread - #45/INFO]: [Not Secure] Papu Min_Chulo: asdasd
+[21:25:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/tell toxcraft hola<--[HERE]
+[21:25:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/tell toxcraft hola<--[HERE]
+[21:25:44] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[21:25:44] [Server thread/INFO]: Min_Chulo left the game
+[21:25:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/msg toxcraft456 o<--[HERE]
+[21:25:54] [User Authenticator #20/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[21:25:56] [Server thread/INFO]: Min_Chulo joined the game
+[21:25:56] [Server thread/INFO]: Min_Chulo[/127.150.150.204:41983] logged in with entity id 174243 at ([world]753.9444978178282, 44.08180436568545, -1458.3405388621914)
+[21:26:40] [Async Chat Thread - #47/INFO]: [Not Secure] Papu Min_Chulo: a
+[21:26:58] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[21:26:58] [Server thread/INFO]: Min_Chulo left the game
+[21:29:03] [User Authenticator #21/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[21:29:05] [Server thread/INFO]: Min_Chulo joined the game
+[21:29:05] [Server thread/INFO]: Min_Chulo[/127.150.150.204:48825] logged in with entity id 174805 at ([world]753.2261620545088, 60.944414746619806, -1436.0792511615064)
+[21:29:43] [Server thread/INFO]: Min_Chulo issued server command: /msg
