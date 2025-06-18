@@ -264,3 +264,35 @@ asd<--[HERE]
 [18:59:21] [User Authenticator #11/INFO]: UUID of player Toxcraft456 is dc5bbb1e-d32f-3531-9bba-53d8b57094a7
 [18:59:23] [Server thread/INFO]: Toxcraft456 joined the game
 [18:59:23] [Server thread/INFO]: Toxcraft456[/127.67.153.152:37489] logged in with entity id 57673 at ([world]1719.6421360583827, 67.0, -1816.9615334361945)
+[19:05:21] [Server thread/INFO]: Toxcraft456 issued server command: /anvil
+[19:06:32] [Async Chat Thread - #23/INFO]: [Not Secure] Papu Toxcraft456: ./ec
+[19:06:35] [Server thread/INFO]: Toxcraft456 issued server command: /.eec
+[19:06:38] [Async Chat Thread - #22/INFO]: [Not Secure] Papu Toxcraft456: ./eec
+[19:06:44] [Server thread/INFO]: Toxcraft456 issued server command: /
+[19:06:48] [Async Chat Thread - #23/INFO]: [Not Secure] Papu Min_Chulo: ./ping
+[19:06:58] [Async Chat Thread - #23/INFO]: [Not Secure] Papu Toxcraft456: a
+[19:07:12] [Async Chat Thread - #22/INFO]: [Not Secure] Papu Min_Chulo: ping
+[19:10:59] [Server thread/INFO]: Min_Chulo issued server command: /tick rate 2500
+[19:10:59] [Server thread/INFO]: [Min_Chulo: Set the target tick rate to 2500.0 per second]
+[19:11:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1509ms or 3774 ticks behind
+[19:11:14] [Server thread/INFO]: The death_locations.yml file has been saved
+[19:11:14] [Server thread/INFO]: Min_Chulo was slain by Zombie
+[19:11:24] [Server thread/INFO]: Min_Chulo issued server command: /tick rate 20
+[19:11:24] [Server thread/INFO]: [Min_Chulo: Set the target tick rate to 20.0 per second]
+[19:11:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8238ms or 164 ticks behind
+[19:11:27] [Server thread/INFO]: Min_Chulo issued server command: /back
+[19:11:27] [Server thread/INFO]: The death_locations.yml file has been saved
+[19:12:08] [Server thread/INFO]: Min_Chulo issued server command: /tick rate 9999
+[19:12:08] [Server thread/INFO]: [Min_Chulo: Set the target tick rate to 9999.0 per second]
+[19:12:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1502ms or 15018 ticks behind
+[19:12:40] [Server thread/INFO]: Min_Chulo issued server command: /tick rate 20
+[19:12:40] [Server thread/INFO]: [Min_Chulo: Set the target tick rate to 20.0 per second]
+[19:12:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16877ms or 337 ticks behind
+[19:13:02] [Async Chat Thread - #24/INFO]: [Not Secure] Papu Min_Chulo: a
+[19:13:50] [Server thread/INFO]: Min_Chulo issued server command: /home
+[19:14:05] [Async Chat Thread - #26/INFO]: [Not Secure] Papu Min_Chulo: -400 -1225
+[19:18:06] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[19:18:50] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[19:23:33] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[19:27:24] [Server thread/INFO]: Toxcraft456 issued server command: /ec
+[19:29:09] [Server thread/INFO]: Min_Chulo issued server command: /ec

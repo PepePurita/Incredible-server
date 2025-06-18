@@ -775,10 +775,12 @@
       "minecraft:pillager": "2024-07-06 03:17:58 +0000",
       "minecraft:blaze": "2024-07-06 04:36:08 +0000",
       "minecraft:skeleton": "2024-07-04 02:08:19 +0000",
+      "minecraft:elder_guardian": "2025-06-18 19:19:46 +0000",
       "minecraft:ravager": "2024-07-09 16:55:44 +0000",
       "minecraft:bogged": "2024-07-07 14:29:03 +0000",
       "minecraft:ghast": "2024-07-10 15:11:42 +0000",
       "minecraft:hoglin": "2024-07-16 02:53:26 +0000",
+      "minecraft:guardian": "2025-06-18 19:18:41 +0000",
       "minecraft:breeze": "2024-07-07 14:32:23 +0000",
       "minecraft:vindicator": "2024-07-09 16:54:13 +0000",
       "minecraft:magma_cube": "2024-07-15 18:27:01 +0000",
@@ -5305,7 +5307,8 @@
   },
   "minecraft:husbandry/whole_pack": {
     "criteria": {
-      "minecraft:rusty": "2025-02-24 01:02:32 +0000"
+      "minecraft:rusty": "2025-02-24 01:02:32 +0000",
+      "minecraft:woods": "2025-06-18 19:15:49 +0000"
     },
     "done": false
   },
@@ -5336,6 +5339,36 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2025-02-24 01:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-18 19:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-06-18 19:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-18 19:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-18 19:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-18 19:18:41 +0000"
     },
     "done": true
   },
