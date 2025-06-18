@@ -146,3 +146,4 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [15:52:17] [Server thread/INFO]: Min_Chulo joined the game
 [15:52:18] [Server thread/INFO]: Min_Chulo[/127.217.240.7:32937] logged in with entity id 29 at ([world]-357.9362442378995, 70.0, -1223.4700496842545)
 [15:52:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2560ms or 51 ticks behind
+[16:18:07] [Server thread/INFO]: Min_Chulo issued server command: /home
