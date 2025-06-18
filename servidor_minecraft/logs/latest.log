@@ -211,3 +211,24 @@ a<--[HERE]
 [17:37:12] [Async Chat Thread - #12/INFO]: [Not Secure] Papu Min_Chulo: a
 [17:37:13] [Async Chat Thread - #12/INFO]: [Not Secure] Papu Min_Chulo: a
 [17:37:13] [Async Chat Thread - #12/INFO]: [Not Secure] Papu Min_Chulo: a
+[17:44:47] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[17:44:47] [Server thread/INFO]: Min_Chulo left the game
+[17:45:00] [User Authenticator #8/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[17:45:02] [Server thread/INFO]: Min_Chulo joined the game
+[17:45:02] [Server thread/INFO]: Min_Chulo[/127.150.150.204:36507] logged in with entity id 23226 at ([world]-215.47971275453543, 62.74322613608586, -1399.6796255900751)
+[17:46:06] [Async Chat Thread - #14/INFO]: [Not Secure] Papu Min_Chulo: a
+[17:46:17] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[17:46:17] [Server thread/INFO]: Min_Chulo left the game
+[17:46:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+asd<--[HERE]
+[17:46:26] [User Authenticator #9/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[17:46:28] [Server thread/INFO]: Min_Chulo joined the game
+[17:46:28] [Server thread/INFO]: Min_Chulo[/127.150.150.204:43941] logged in with entity id 24685 at ([world]-245.62515925272783, 63.0, -1308.3729333053716)
+[17:46:32] [Async Chat Thread - #14/INFO]: [Not Secure] Papu Min_Chulo: a
+[17:46:45] [Async Chat Thread - #15/INFO]: [Not Secure] Papu Min_Chulo: a
+[17:47:12] [Async Chat Thread - #15/INFO]: [Not Secure] Papu Min_Chulo: a
+[17:47:13] [Async Chat Thread - #14/INFO]: [Not Secure] Papu Min_Chulo: a
+[17:47:15] [Async Chat Thread - #14/INFO]: [Not Secure] Papu Min_Chulo: a
+[17:49:19] [Server thread/INFO]: Min_Chulo issued server command: /effect give Min_Chulo minecraft:speed infinite 5
+[17:49:19] [Server thread/INFO]: [Min_Chulo: Applied effect Speed to Min_Chulo]
+[17:51:58] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
