@@ -486,3 +486,32 @@ asd<--[HERE]
 [21:29:05] [Server thread/INFO]: Min_Chulo joined the game
 [21:29:05] [Server thread/INFO]: Min_Chulo[/127.150.150.204:48825] logged in with entity id 174805 at ([world]753.2261620545088, 60.944414746619806, -1436.0792511615064)
 [21:29:43] [Server thread/INFO]: Min_Chulo issued server command: /msg
+[21:33:38] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[21:33:38] [Server thread/INFO]: Min_Chulo left the game
+[21:33:54] [User Authenticator #22/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[21:33:55] [Server thread/INFO]: Min_Chulo joined the game
+[21:33:55] [Server thread/INFO]: Min_Chulo[/127.150.150.204:36021] logged in with entity id 175818 at ([world]690.5256876207882, 47.73145641924203, -1488.6674545369397)
+[21:34:28] [Server thread/INFO]: Min_Chulo issued server command: /,
+[21:34:33] [Server thread/INFO]: Min_Chulo issued server command: /msg
+[21:34:54] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[21:34:54] [Server thread/INFO]: Min_Chulo left the game
+[21:35:27] [User Authenticator #23/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[21:35:29] [Server thread/INFO]: Min_Chulo joined the game
+[21:35:29] [Server thread/INFO]: Min_Chulo[/127.150.150.204:58439] logged in with entity id 176095 at ([world]687.5521166286081, 63.0, -1472.173896480352)
+[21:36:28] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[21:36:28] [Server thread/INFO]: Min_Chulo left the game
+[21:37:16] [User Authenticator #24/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[21:37:18] [Server thread/INFO]: Min_Chulo joined the game
+[21:37:18] [Server thread/INFO]: Min_Chulo[/127.150.150.204:57903] logged in with entity id 176367 at ([world]720.6573892602026, 63.0, -1423.0229561491228)
+[21:37:40] [Server thread/INFO]: Min_Chulo issued server command: /msg
+[21:37:54] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[21:37:54] [Server thread/INFO]: Min_Chulo left the game
+[21:38:22] [User Authenticator #25/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[21:38:23] [Server thread/INFO]: Min_Chulo joined the game
+[21:38:23] [Server thread/INFO]: Min_Chulo[/127.150.150.204:38279] logged in with entity id 176597 at ([world]732.6837878193975, 39.0, -1426.4860810013954)
+[21:39:14] [Server thread/INFO]: Min_Chulo issued server command: /msg
+[21:39:32] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[21:39:32] [Server thread/INFO]: Min_Chulo left the game
+[21:39:35] [User Authenticator #26/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[21:39:36] [Server thread/INFO]: Min_Chulo joined the game
+[21:39:36] [Server thread/INFO]: Min_Chulo[/127.150.150.204:43307] logged in with entity id 176877 at ([world]689.5756819207595, 63.0, -1448.4898230249887)
