@@ -418,3 +418,34 @@ asd<--[HERE]
 [21:08:23] [Server thread/INFO]: Min_Chulo[/127.150.150.204:43225] logged in with entity id 166838 at ([world]-383.7759719277318, 71.66719433874498, -1228.4282875657207)
 [21:08:28] [Async Chat Thread - #39/INFO]: [Not Secure] Papu Min_Chulo: asd
 [21:08:33] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[21:10:33] [Server thread/INFO]: Min_Chulo issued server command: /tp Toxcraft456
+[21:10:46] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[21:11:42] [Server thread/INFO]: Min_Chulo issued server command: /god
+[21:12:02] [Server thread/INFO]: Min_Chulo issued server command: /godmode Toxcraft456
+[21:12:31] [Server thread/INFO]: Toxcraft456 lost connection: Disconnected
+[21:12:31] [Server thread/INFO]: Toxcraft456 left the game
+[21:13:50] [User Authenticator #16/INFO]: UUID of player Toxcraft456 is dc5bbb1e-d32f-3531-9bba-53d8b57094a7
+[21:13:51] [Server thread/INFO]: Toxcraft456 joined the game
+[21:13:51] [Server thread/INFO]: Toxcraft456[/127.67.153.152:37523] logged in with entity id 170573 at ([world]720.101619836738, 63.0, -1455.7694970026523)
+[21:13:51] [Server thread/INFO]: [Essentials] Set god mode to false for {0} because they had it enabled without permission.
+[21:17:33] [Server thread/INFO]: Min_Chulo issued server command: /god Toxcraft456
+[21:18:35] [Server thread/INFO]: Min_Chulo issued server command: /home
+[21:18:46] [Async Chat Thread - #41/INFO]: [Not Secure] Papu Min_Chulo: asd
+[21:19:05] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[21:19:05] [Server thread/INFO]: Min_Chulo left the game
+[21:19:14] [User Authenticator #17/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[21:19:15] [Server thread/INFO]: Min_Chulo joined the game
+[21:19:15] [Server thread/INFO]: Min_Chulo[/127.150.150.204:37427] logged in with entity id 172095 at ([world]-380.5, 69.0, -1223.5)
+[21:19:41] [Async Chat Thread - #41/INFO]: [Not Secure] Papu Min_Chulo: asd
+[21:19:43] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[21:19:43] [Server thread/INFO]: Min_Chulo left the game
+[21:19:48] [User Authenticator #17/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[21:19:49] [Server thread/INFO]: Min_Chulo joined the game
+[21:19:49] [Server thread/INFO]: Min_Chulo[/127.150.150.204:39181] logged in with entity id 172963 at ([world]-382.24829680824496, 69.0, -1224.2426661659847)
+[21:19:52] [Async Chat Thread - #42/INFO]: [Not Secure] Papu Min_Chulo: asd
+[21:19:55] [Async Chat Thread - #41/INFO]: [Not Secure] Papu Min_Chulo: asdasdasdqw
+[21:19:59] [Server thread/INFO]: Min_Chulo issued server command: /tp toxcraft456
+[21:20:30] [Async Chat Thread - #41/INFO]: [Not Secure] Papu Min_Chulo: asd
+[21:20:32] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[21:20:32] [Server thread/INFO]: Min_Chulo left the game
+[21:20:35] [User Authenticator #17/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
