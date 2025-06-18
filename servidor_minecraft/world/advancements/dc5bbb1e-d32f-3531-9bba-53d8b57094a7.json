@@ -3537,6 +3537,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2024-07-12 14:34:36 +0000",
+      "minecraft:goat": "2025-06-18 20:35:30 +0000",
       "minecraft:turtle": "2025-02-24 01:15:09 +0000",
       "minecraft:sheep": "2024-07-12 14:34:17 +0000"
     },
@@ -5352,6 +5353,12 @@
   "minecraft:husbandry/repair_wolf_armor": {
     "criteria": {
       "repair_wolf_armor": "2025-06-18 19:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/ride_a_boat_with_a_goat": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-06-18 20:31:17 +0000"
     },
     "done": true
   },

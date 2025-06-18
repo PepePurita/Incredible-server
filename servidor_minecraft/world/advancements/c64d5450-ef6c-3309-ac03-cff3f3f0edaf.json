@@ -2394,6 +2394,7 @@
     "criteria": {
       "minecraft:cat": "2025-02-24 01:33:01 +0000",
       "minecraft:cow": "2024-07-08 07:20:49 +0000",
+      "minecraft:goat": "2025-06-18 20:34:24 +0000",
       "minecraft:sheep": "2024-07-08 07:20:09 +0000"
     },
     "done": false
@@ -6224,6 +6225,12 @@
   "minecraft:recipes/redstone/crafter": {
     "criteria": {
       "has_dropper": "2025-06-17 17:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/ride_a_boat_with_a_goat": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-06-18 20:31:41 +0000"
     },
     "done": true
   },
