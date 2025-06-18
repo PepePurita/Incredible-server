@@ -232,3 +232,6 @@ asd<--[HERE]
 [17:49:19] [Server thread/INFO]: Min_Chulo issued server command: /effect give Min_Chulo minecraft:speed infinite 5
 [17:49:19] [Server thread/INFO]: [Min_Chulo: Applied effect Speed to Min_Chulo]
 [17:51:58] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
+[17:58:59] [Async Chat Thread - #16/INFO]: [Not Secure] Papu Min_Chulo: a
+[18:01:55] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[18:02:07] [Server thread/INFO]: Min_Chulo issued server command: /home
