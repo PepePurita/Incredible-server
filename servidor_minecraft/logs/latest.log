@@ -148,3 +148,5 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [17:00:15] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [17:04:09] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
 [17:12:57] [Async Chat Thread - #1/INFO]: [Not Secure] Papu Min_Chulo: a
+[17:24:06] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
+[17:24:12] [Server thread/INFO]: Min_Chulo issued server command: /gamemode creative
