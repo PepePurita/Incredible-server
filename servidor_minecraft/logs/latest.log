@@ -204,3 +204,81 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [21:58:52] [Server thread/INFO]: Min_Chulo[/127.127.239.245:35701] logged in with entity id 21255 at ([world]-363.8734853462199, 54.0, -1162.6725530880249)
 [21:58:55] [Server thread/INFO]: Min_Chulo issued server command: /msg
 [21:59:29] [Server thread/INFO]: Min_Chulo issued server command: /home
+[22:00:46] [Server thread/INFO]: Min_Chulo issued server command: /tp Min_Chulo Toxcraft456
+[22:00:56] [Server thread/WARN]: Min_Chulo moved wrongly!
+[22:01:07] [Server thread/INFO]: Min_Chulo issued server command: /msg
+[22:01:30] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[22:01:30] [Server thread/INFO]: Min_Chulo left the game
+[22:01:41] [User Authenticator #5/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[22:01:43] [Server thread/INFO]: Min_Chulo joined the game
+[22:01:43] [Server thread/INFO]: Min_Chulo[/127.127.239.245:52921] logged in with entity id 23623 at ([world]696.9515607889072, 63.84760136689309, -1453.0976630735424)
+[22:02:14] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[22:02:14] [Server thread/INFO]: Min_Chulo left the game
+[22:02:21] [User Authenticator #5/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[22:02:23] [Server thread/INFO]: Min_Chulo joined the game
+[22:02:23] [Server thread/INFO]: Min_Chulo[/127.127.239.245:59639] logged in with entity id 23710 at ([world]696.5287447120367, 48.97401418224635, -1456.3288030193503)
+[22:02:39] [Server thread/INFO]: Min_Chulo issued server command: /msg
+[22:02:59] [Server thread/INFO]: Min_Chulo issued server command: /msg
+[22:03:01] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[22:03:01] [Server thread/INFO]: Min_Chulo left the game
+[22:03:07] [User Authenticator #5/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[22:03:09] [Server thread/INFO]: Min_Chulo joined the game
+[22:03:09] [Server thread/INFO]: Min_Chulo[/127.127.239.245:57735] logged in with entity id 23802 at ([world]692.3750647806104, 45.34999989182509, -1421.8220482589666)
+[22:03:16] [Server thread/INFO]: Min_Chulo issued server command: /msg
+[22:03:37] [Server thread/INFO]: Min_Chulo issued server command: /msg
+[22:03:44] [Server thread/INFO]: Min_Chulo issued server command: /msg
+[22:03:52] [User Authenticator #5/INFO]: UUID of player _TeyZen_ is 382d519e-950f-353f-90a7-fa837834c272
+[22:03:54] [Server thread/INFO]: _TeyZen_ joined the game
+[22:03:54] [Server thread/INFO]: _TeyZen_[/127.67.200.160:35449] logged in with entity id 23863 at ([world]695.643695136693, 64.02442408821369, -1443.7100499427268)
+[22:04:19] [Async Chat Thread - #12/INFO]: [Not Secure] Papu Min_Chulo: a
+[22:05:01] [Server thread/INFO]: _TeyZen_ lost connection: Disconnected
+[22:05:01] [Server thread/INFO]: _TeyZen_ left the game
+[22:06:10] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[22:06:10] [Server thread/INFO]: Min_Chulo left the game
+[22:06:35] [User Authenticator #6/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[22:06:38] [Server thread/INFO]: Min_Chulo joined the game
+[22:06:38] [Server thread/INFO]: Min_Chulo[/127.127.239.245:43515] logged in with entity id 24435 at ([world]745.2718611296153, 44.93419227901447, -1424.3887635783224)
+[22:07:01] [Server thread/INFO]: Min_Chulo issued server command: /msg
+[22:07:21] [Server thread/INFO]: Min_Chulo issued server command: /msg
+[22:07:45] [Server thread/INFO]: Toxcraft456 issued server command: /tpa Min_Chulo
+[22:07:53] [Server thread/INFO]: Min_Chulo issued server command: /tpaccept
+[22:08:19] [Server thread/INFO]: Min_Chulo issued server command: /home
+[22:08:31] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[22:08:32] [Server thread/INFO]: Min_Chulo left the game
+[22:13:45] [Server thread/INFO]: Toxcraft456 lost connection: Disconnected
+[22:13:45] [Server thread/INFO]: Toxcraft456 left the game
+[22:15:44] [Server thread/INFO]: Stopping the server
+[22:15:44] [Server thread/INFO]: Stopping server
+[22:15:44] [Server thread/INFO]: [Back] Disabling Back v1.8.5
+[22:15:44] [Server thread/INFO]: ----------------------------
+[22:15:44] [Server thread/INFO]: Back Plugin Disabled!
+[22:15:44] [Server thread/INFO]: Plugin developed by GFelberg
+[22:15:44] [Server thread/INFO]: ----------------------------
+[22:15:44] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+169-69ed07a
+[22:15:44] [Server thread/INFO]: [setHome] Disabling setHome v1.0
+[22:15:44] [Server thread/INFO]: [NameTag] Disabling NameTag v1.0
+[22:15:44] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.154
+[22:15:44] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[22:15:44] [Server thread/INFO]: [LuckPerms] Closing storage...
+[22:15:44] [Server thread/INFO]: [LuckPerms] Goodbye!
+[22:15:44] [Server thread/INFO]: Saving players
+[22:15:44] [Server thread/INFO]: Saving worlds
+[22:15:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:15:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[22:15:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[22:15:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[22:15:44] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 9 entity chunks, 0 poi chunks in world 'world' in 0.02s
+[22:15:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:15:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[22:15:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[22:15:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[22:15:45] [Server thread/INFO]: [ChunkHolderManager] Saved 69 block chunks, 155 entity chunks, 0 poi chunks in world 'world_nether' in 0.13s
+[22:15:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:15:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[22:15:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[22:15:45] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[22:15:45] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[22:15:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:15:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:15:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:15:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
