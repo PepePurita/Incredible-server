@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1750355384983
+  logout: 1750356099433
   login: 1750355567565
 money: '0'
 last-account-name: Min_Chulo
 logoutlocation:
   world: 8038ab38-042b-4a2e-b377-aca180063fc7
   world-name: world
-  x: -787.5999999999998
-  y: 202.65
-  z: -1288.5
-  yaw: 25.792869567871094
-  pitch: 45.5106086730957
+  x: -604.3337082185022
+  y: 80.17877854396578
+  z: -1100.107135309034
+  yaw: 78.40576171875
+  pitch: 30.431699752807617
 lastlocation:
   world: 8038ab38-042b-4a2e-b377-aca180063fc7
   world-name: world
