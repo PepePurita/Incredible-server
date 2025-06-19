@@ -1,6 +1,6 @@
 teleportenabled: true
 teleportauto: false
-godmode: true
+godmode: false
 muted: false
 jailed: false
 ip-address: 127.67.153.152
@@ -17,7 +17,7 @@ timestamps:
   jail: 0
   onlinejail: 0
   logout: 1750282911205
-  login: 1750281231703
+  login: 1750368566037
 money: '0'
 last-account-name: Toxcraft456
 logoutlocation:
