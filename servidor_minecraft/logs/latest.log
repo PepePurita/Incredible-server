@@ -140,3 +140,13 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [16:42:29] [Craft Scheduler Thread - 3 - Back/INFO]: 
 [16:42:29] [Craft Scheduler Thread - 1 - Essentials/WARN]: [Essentials] You're 49 EssentialsX dev build(s) out of date!
 [16:42:29] [Craft Scheduler Thread - 1 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[16:58:32] [User Authenticator #0/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[16:58:49] [Server thread/INFO]: Min_Chulo joined the game
+[16:58:49] [Server thread/INFO]: Min_Chulo[/100.106.239.82:57704] logged in with entity id 32 at ([world]-382.722578694096, 69.0, -1220.6463530897431)
+[16:58:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2599ms or 51 ticks behind
+[17:00:33] [Async Chat Thread - #0/INFO]: [Not Secure] Papu Min_Chulo: a
+[17:01:51] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[17:01:51] [Server thread/INFO]: Min_Chulo left the game
+[17:01:58] [User Authenticator #1/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[17:02:00] [Server thread/INFO]: Min_Chulo joined the game
+[17:02:00] [Server thread/INFO]: Min_Chulo[/100.106.239.82:57710] logged in with entity id 1174 at ([world]-362.6782592964247, 69.0, -1218.675042414715)
