@@ -150,3 +150,7 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [17:01:58] [User Authenticator #1/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
 [17:02:00] [Server thread/INFO]: Min_Chulo joined the game
 [17:02:00] [Server thread/INFO]: Min_Chulo[/100.106.239.82:57710] logged in with entity id 1174 at ([world]-362.6782592964247, 69.0, -1218.675042414715)
+[17:02:11] [Async Chat Thread - #2/INFO]: [Not Secure] Papu Min_Chulo: a
+[17:04:40] [Async Chat Thread - #3/INFO]: [Not Secure] Papu Min_Chulo: a
+[17:10:01] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[17:10:01] [Server thread/INFO]: Min_Chulo left the game
