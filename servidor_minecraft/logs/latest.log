@@ -154,3 +154,5 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [17:04:40] [Async Chat Thread - #3/INFO]: [Not Secure] Papu Min_Chulo: a
 [17:10:01] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
 [17:10:01] [Server thread/INFO]: Min_Chulo left the game
+[17:32:08] [User Authenticator #2/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[17:32:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@8255df1[id=c64d5450-ef6c-3309-ac03-cff3f3f0edaf,name=Min_Chulo,properties={}] lost connection: Timed out
