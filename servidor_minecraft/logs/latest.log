@@ -157,3 +157,5 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [21:21:36] [User Authenticator #2/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
 [21:21:39] [Server thread/INFO]: Min_Chulo joined the game
 [21:21:39] [Server thread/INFO]: Min_Chulo[/127.45.133.135:34839] logged in with entity id 3105 at ([world]-203.14025137916857, 99.76819069632135, -1428.7268778762548)
+[23:46:44] [Server thread/INFO]: Min_Chulo issued server command: /home
+[23:47:20] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo debug_stick
