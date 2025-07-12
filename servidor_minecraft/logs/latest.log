@@ -9454,3 +9454,9 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [00:55:39] [Server thread/INFO]: [Min_Chulo: Changed the block at -144, 118, -1441]
 [00:55:39] [Server thread/INFO]: Min_Chulo issued server command: /setblock -144 119 -1441 minecraft:dark_oak_trapdoor[open=false,half=bottom,facing=east,waterlogged=false,powered=false]
 [00:55:39] [Server thread/INFO]: [Min_Chulo: Changed the block at -144, 119, -1441]
+[01:05:57] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[01:05:57] [Server thread/INFO]: Min_Chulo left the game
+[01:07:44] [User Authenticator #6/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[01:07:47] [Server thread/INFO]: Min_Chulo joined the game
+[01:07:47] [Server thread/INFO]: Min_Chulo[/127.182.9.246:45351] logged in with entity id 7812 at ([world]-203.37856388205188, 115.01501100864196, -1403.5524440309377)
+[01:09:52] [Async Chat Thread - #4/INFO]: [Not Secure] Papu Min_Chulo: a
