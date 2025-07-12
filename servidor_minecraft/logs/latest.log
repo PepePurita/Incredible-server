@@ -9460,3 +9460,33 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [01:07:47] [Server thread/INFO]: Min_Chulo joined the game
 [01:07:47] [Server thread/INFO]: Min_Chulo[/127.182.9.246:45351] logged in with entity id 7812 at ([world]-203.37856388205188, 115.01501100864196, -1403.5524440309377)
 [01:09:52] [Async Chat Thread - #4/INFO]: [Not Secure] Papu Min_Chulo: a
+[01:12:13] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[01:12:13] [Server thread/INFO]: Min_Chulo left the game
+[01:12:38] [User Authenticator #7/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[01:12:41] [Server thread/INFO]: Min_Chulo joined the game
+[01:12:41] [Server thread/INFO]: Min_Chulo[/127.182.9.246:42037] logged in with entity id 9235 at ([world]-197.22002744677152, 118.15988226389442, -1403.300000011921)
+[01:13:06] [Async Chat Thread - #5/INFO]: [Not Secure] Papu Min_Chulo: a
+[01:13:19] [Async Chat Thread - #5/INFO]: [Not Secure] Papu Min_Chulo: asd
+[01:13:20] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[01:13:20] [Server thread/INFO]: Min_Chulo left the game
+[01:13:55] [User Authenticator #8/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[01:13:59] [Server thread/INFO]: Min_Chulo joined the game
+[01:13:59] [Server thread/INFO]: Min_Chulo[/127.182.9.246:47695] logged in with entity id 9950 at ([world]-205.13602577498318, 119.28588697674444, -1408.2254691335454)
+[01:14:37] [Async Chat Thread - #7/INFO]: [Not Secure] Papu Min_Chulo: a
+[01:14:37] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[01:14:37] [Server thread/INFO]: Min_Chulo left the game
+[01:15:22] [User Authenticator #9/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[01:15:24] [Server thread/INFO]: Min_Chulo joined the game
+[01:15:24] [Server thread/INFO]: Min_Chulo[/127.182.9.246:53223] logged in with entity id 10663 at ([world]-197.92429496143825, 119.28588697674444, -1410.667327423141)
+[01:16:10] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[01:16:10] [Server thread/INFO]: Min_Chulo left the game
+[01:19:16] [User Authenticator #10/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[01:19:18] [Server thread/INFO]: Min_Chulo joined the game
+[01:19:18] [Server thread/INFO]: Min_Chulo[/127.182.9.246:36251] logged in with entity id 11391 at ([world]-197.92429496143825, 119.28588697674444, -1410.667327423141)
+[01:19:43] [Async Chat Thread - #9/INFO]: [Not Secure] Papu Min_Chulo: a
+[01:20:09] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[01:20:09] [Server thread/INFO]: Min_Chulo left the game
+[01:20:48] [User Authenticator #11/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[01:20:53] [Server thread/INFO]: Min_Chulo joined the game
+[01:20:53] [Server thread/INFO]: Min_Chulo[/127.182.9.246:42439] logged in with entity id 12119 at ([world]-197.69017466439357, 120.0, -1405.0655390235179)
+[01:21:18] [Async Chat Thread - #11/INFO]: [Not Secure] Papu Min_Chulo: a
