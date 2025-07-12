@@ -1,33 +1,162 @@
-[00:11:42] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo debug_stick 1
-[00:15:13] [Server thread/WARN]: Rejecting UseItemOnPacket from Min_Chulo: Location (-148.1875, 72.4808979332447, -1376.4635799527168) too far away from hit block BlockPos{x=-150, y=72, z=-1377}.
-[00:15:14] [Server thread/WARN]: Rejecting UseItemOnPacket from Min_Chulo: Location (-148.1875, 71.08844699710608, -1376.847471356392) too far away from hit block BlockPos{x=-150, y=71, z=-1377}.
-[00:45:42] [Server thread/INFO]: Min_Chulo lost connection: Timed out
-[00:45:42] [Server thread/INFO]: Min_Chulo left the game
-[00:50:10] [User Authenticator #3/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
-[00:50:15] [Server thread/INFO]: Min_Chulo joined the game
-[00:50:15] [Server thread/INFO]: Min_Chulo[/127.45.133.135:45721] logged in with entity id 32227 at ([world]-194.04947478265976, 87.47679293108087, -1431.9285715180872)
-[01:55:45] [Server thread/INFO]: Min_Chulo lost connection: Timed out
-[01:55:45] [Server thread/INFO]: Min_Chulo left the game
-[01:56:11] [User Authenticator #4/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
-[01:56:13] [Server thread/INFO]: Min_Chulo joined the game
-[01:56:13] [Server thread/INFO]: Min_Chulo[/127.45.133.135:57857] logged in with entity id 40834 at ([world]-166.3719802266607, 87.30437331204212, -1407.0638418391054)
-[01:56:45] [Server thread/INFO]: Min_Chulo lost connection: Timed out
-[01:56:45] [Server thread/INFO]: Min_Chulo left the game
-[01:57:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
-asd<--[HERE]
-[01:57:20] [User Authenticator #5/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
-[01:57:22] [Server thread/INFO]: Min_Chulo joined the game
-[01:57:22] [Server thread/INFO]: Min_Chulo[/127.45.133.135:45069] logged in with entity id 41694 at ([world]-141.65135065607322, 73.15790830963192, -1406.3109103354661)
-[01:57:24] [Async Chat Thread - #0/INFO]: [Not Secure] Papu Min_Chulo: a
-[01:57:44] [Async Chat Thread - #0/INFO]: [Not Secure] Papu Min_Chulo: a
-[01:57:55] [Async Chat Thread - #0/INFO]: [Not Secure] Papu Min_Chulo: a
-[01:58:10] [Async Chat Thread - #0/INFO]: [Not Secure] Papu Min_Chulo: a
-[01:59:17] [Async Chat Thread - #2/INFO]: [Not Secure] Papu Min_Chulo: a
-[01:59:53] [Server thread/INFO]: Min_Chulo lost connection: Timed out
-[01:59:53] [Server thread/INFO]: Min_Chulo left the game
-[02:00:08] [User Authenticator #6/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
-[02:00:09] [Server thread/INFO]: Min_Chulo joined the game
-[02:00:09] [Server thread/INFO]: Min_Chulo[/127.45.133.135:33827] logged in with entity id 43219 at ([world]-213.5755638364622, 69.98082076376859, -1409.8213469427178)
-[02:00:18] [Async Chat Thread - #4/INFO]: [Not Secure] Papu Min_Chulo: a
-[02:01:34] [Async Chat Thread - #7/INFO]: [Not Secure] Papu Min_Chulo: a
-[02:56:13] [Server thread/INFO]: Min_Chulo issued server command: /ec
+[00:30:42] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[00:30:42] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[00:30:42] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:30:44] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[00:30:44] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+ - Back (1.8.5), Essentials (2.21.0-dev+169-69ed07a), LuckPerms (5.4.154), LunaColor (1.0-SNAPSHOT), NameTag (1.0), ServerOptimizer (1.0), setHome (1.0)
+[00:30:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:30:57] [ServerMain/INFO]: Loaded 1290 recipes
+[00:30:57] [ServerMain/INFO]: Loaded 1399 advancements
+[00:30:58] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[00:30:58] [Server thread/INFO]: Loading properties
+[00:30:58] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[00:30:59] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:30:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:30:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:31:01] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[00:31:01] [Server thread/INFO]: Default game type: SURVIVAL
+[00:31:01] [Server thread/INFO]: Generating keypair
+[00:31:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:31:01] [Server thread/INFO]: Using epoll channel type
+[00:31:02] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:31:02] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[00:31:02] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/.paper-remapped/LunaColor-1.0-SNAPSHOT.jar' in 'plugins/.paper-remapped'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [PlaceholderAPI]. Please download and install these plugins to run 'LunaColor'.
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:40) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:546) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:292) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[00:31:03] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load plugin 'ServerOptimizer.jar' in folder 'plugins/.paper-remapped'
+org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has been compiled by a more recent version of the Java Runtime (class file version 66.0), this version of the Java Runtime only recognizes class file versions up to 65.0
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:129) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:35) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:116) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:38) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:40) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:546) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:292) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has been compiled by a more recent version of the Java Runtime (class file version 66.0), this version of the Java Runtime only recognizes class file versions up to 65.0
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method) ~[?:?]
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1027) ~[?:?]
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:243) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:169) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.base/java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.base/java.lang.Class.forName(Class.java:534) ~[?:?]
+	at java.base/java.lang.Class.forName(Class.java:513) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:78) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.provider.type.spigot.SpigotPluginProvider.createInstance(SpigotPluginProvider.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
+	... 9 more
+[00:31:03] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.154
+[00:31:04] [Server thread/INFO]: [NameTag] Loading server plugin NameTag v1.0
+[00:31:04] [Server thread/INFO]: [setHome] Loading server plugin setHome v1.0
+[00:31:04] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+169-69ed07a
+[00:31:04] [Server thread/INFO]: [Back] Loading server plugin Back v1.8.5
+[00:31:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:31:04] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.154
+[00:31:05] [Server thread/INFO]:         __    
+[00:31:05] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.154
+[00:31:05] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[00:31:05] [Server thread/INFO]: 
+[00:31:05] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[00:31:06] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[00:31:07] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[00:31:07] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[00:31:07] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3037ms)
+[00:31:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:31:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:31:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:31:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:31:07] [Server thread/INFO]: Preparing level "world"
+[00:31:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:31:11] [Server thread/INFO]: Time elapsed: 2430 ms
+[00:31:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:31:11] [Server thread/INFO]: Time elapsed: 505 ms
+[00:31:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:31:11] [Server thread/INFO]: Time elapsed: 245 ms
+[00:31:11] [Server thread/INFO]: [NameTag] Enabling NameTag v1.0
+[00:31:11] [Server thread/INFO]: [setHome] Enabling setHome v1.0
+[00:31:12] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+169-69ed07a
+[00:31:14] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[00:31:15] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[00:31:15] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[00:31:15] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[00:31:15] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[00:31:16] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[00:31:16] [Server thread/INFO]: [Essentials] Using locale en
+[00:31:16] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[00:31:17] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[00:31:17] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[00:31:17] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[00:31:17] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[00:31:17] [Server thread/INFO]: [Back] Enabling Back v1.8.5
+[00:31:17] [Server thread/ERROR]: [Back] Failed to register events for class me.GFelberg.Back.Main because net/milkbowl/vault/economy/Economy does not exist.
+[00:31:17] [Server thread/INFO]: The death_locations.yml file has been saved
+[00:31:17] [Server thread/INFO]: ----------------------------
+[00:31:17] [Server thread/INFO]: Back Plugin Enabled!
+[00:31:17] [Server thread/INFO]: Vault Plugin or Economy Plugin or both not found! Plugin will works without Vault
+[00:31:17] [Server thread/INFO]: ----------------------------
+[00:31:17] [Server thread/INFO]: [spark] Starting background profiler...
+[00:31:19] [Server thread/INFO]: Done preparing level "world" (11.497s)
+[00:31:19] [Server thread/INFO]: Running delayed init tasks
+[00:31:19] [Server thread/INFO]: Done (39.121s)! For help, type "help"
+[00:31:19] [Server thread/INFO]: Timings Reset
+[00:31:19] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[00:31:19] [User Authenticator #0/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[00:31:19] [Craft Scheduler Thread - 2 - Back/INFO]: 
+[00:31:19] [Craft Scheduler Thread - 2 - Back/INFO]: [Back] There is a new update available!
+[00:31:19] [Craft Scheduler Thread - 2 - Back/INFO]: Current Version: 1.8.5
+[00:31:19] [Craft Scheduler Thread - 2 - Back/INFO]: Latest Version: 1.8.6
+[00:31:19] [Craft Scheduler Thread - 2 - Back/INFO]: Link: https://www.spigotmc.org/resources/back.94702/
+[00:31:19] [Craft Scheduler Thread - 2 - Back/INFO]: 
+[00:31:19] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] You're 71 EssentialsX dev build(s) out of date!
+[00:31:19] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[00:31:29] [Server thread/INFO]: Min_Chulo joined the game
+[00:31:30] [Server thread/INFO]: Min_Chulo[/127.182.9.246:37577] logged in with entity id 32 at ([world]-185.9395245085377, 91.43970977355272, -1427.6115177940055)
+[00:33:43] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[00:33:43] [Server thread/INFO]: Min_Chulo left the game
+[00:34:46] [User Authenticator #1/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[00:34:49] [Server thread/INFO]: Min_Chulo joined the game
+[00:34:49] [Server thread/INFO]: Min_Chulo[/127.182.9.246:37153] logged in with entity id 1284 at ([world]-163.06735860469172, 101.93569552897794, -1388.1839768233817)
+[00:35:26] [Async Chat Thread - #1/INFO]: [Not Secure] Papu Min_Chulo: a
+[00:35:30] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[00:35:30] [Server thread/INFO]: Min_Chulo left the game
+[00:36:44] [User Authenticator #2/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[00:36:46] [Server thread/INFO]: Min_Chulo joined the game
+[00:36:46] [Server thread/INFO]: Min_Chulo[/127.182.9.246:33071] logged in with entity id 1998 at ([world]-163.1385802876183, 101.93569552897794, -1392.4958237554574)
+[00:37:08] [Async Chat Thread - #2/INFO]: [Not Secure] Papu Min_Chulo: a
+[00:37:24] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[00:37:24] [Server thread/INFO]: Min_Chulo left the game
+[00:38:10] [User Authenticator #3/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[00:38:12] [Server thread/INFO]: Min_Chulo joined the game
+[00:38:12] [Server thread/INFO]: Min_Chulo[/127.182.9.246:47399] logged in with entity id 2727 at ([world]-169.93645740603355, 105.67886499698301, -1391.739219184857)
