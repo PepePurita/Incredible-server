@@ -11,3 +11,5 @@
 [00:13:35] [Server thread/INFO]: Min_Chulo[/127.170.144.67:47779] logged in with entity id 19598 at ([world]-231.70706664483066, 137.73574890760392, -1383.9188547915785)
 [00:28:36] [Server thread/INFO]: Min_Chulo issued server command: /give @p minecraft:light 1
 [00:28:39] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:light 1
+[00:34:11] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[00:34:11] [Server thread/INFO]: Min_Chulo left the game
