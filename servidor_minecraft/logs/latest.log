@@ -9,3 +9,5 @@
 [00:13:33] [User Authenticator #4/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
 [00:13:35] [Server thread/INFO]: Min_Chulo joined the game
 [00:13:35] [Server thread/INFO]: Min_Chulo[/127.170.144.67:47779] logged in with entity id 19598 at ([world]-231.70706664483066, 137.73574890760392, -1383.9188547915785)
+[00:28:36] [Server thread/INFO]: Min_Chulo issued server command: /give @p minecraft:light 1
+[00:28:39] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo minecraft:light 1
