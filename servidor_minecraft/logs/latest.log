@@ -8038,3 +8038,268 @@
 [01:01:39] [Server thread/INFO]: Min_Chulo issued server command: /setblock 32 74 -1409 minecraft:dark_oak_slab[type=bottom,waterlogged=false]
 [01:01:39] [Server thread/INFO]: [Min_Chulo: Changed the block at 32, 74, -1409]
 [01:02:15] [Server thread/INFO]: Min_Chulo issued server command: /give Min_Chulo barrier
+[01:05:50] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[01:05:50] [Server thread/INFO]: Min_Chulo left the game
+[01:06:41] [User Authenticator #7/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[01:06:44] [Server thread/INFO]: Min_Chulo joined the game
+[01:06:44] [Server thread/INFO]: Min_Chulo[/127.170.144.67:60879] logged in with entity id 29175 at ([world]19.468587582659598, 66.0, -1402.542773690494)
+[01:07:26] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[01:07:26] [Server thread/INFO]: Min_Chulo left the game
+[01:07:53] [User Authenticator #8/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[01:07:55] [Server thread/INFO]: Min_Chulo joined the game
+[01:07:55] [Server thread/INFO]: Min_Chulo[/127.170.144.67:33347] logged in with entity id 29974 at ([world]-2.2392149560522925, 106.26383984042286, -1410.14033424799)
+[01:11:14] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[01:11:14] [Server thread/INFO]: Min_Chulo left the game
+[01:11:43] [User Authenticator #9/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[01:11:45] [Server thread/INFO]: Min_Chulo joined the game
+[01:11:45] [Server thread/INFO]: Min_Chulo[/127.170.144.67:44925] logged in with entity id 31086 at ([world]-39.36084713745828, 62.31723593595392, -1401.182132277679)
+[01:12:08] [Server thread/INFO]: Min_Chulo issued server command: /gamerule sendCommandFeedback
+[01:12:10] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-32,y=55,z=-1408,dx=16,dy=8,dz=13]
+[01:12:10] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1408 -17 62 -1396 minecraft:air
+[01:12:10] [Server thread/INFO]: [Min_Chulo: Successfully filled 1664 block(s)]
+[01:12:10] [Server thread/INFO]: Min_Chulo issued server command: /fill -34 55 -1408 -33 62 -1396 minecraft:air
+[01:12:10] [Server thread/INFO]: [Min_Chulo: Successfully filled 208 block(s)]
+[01:12:10] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1411 -17 62 -1409 minecraft:air
+[01:12:10] [Server thread/INFO]: [Min_Chulo: Successfully filled 384 block(s)]
+[01:12:10] [Server thread/INFO]: Min_Chulo issued server command: /fill -34 55 -1411 -33 62 -1409 minecraft:air
+[01:12:10] [Server thread/INFO]: [Min_Chulo: Successfully filled 48 block(s)]
+[01:12:10] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-16,y=55,z=-1408,dx=16,dy=8,dz=13]
+[01:12:10] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1408 -1 62 -1396 minecraft:air
+[01:12:10] [Server thread/INFO]: [Min_Chulo: Successfully filled 1664 block(s)]
+[01:12:10] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1411 -1 62 -1409 minecraft:air
+[01:12:10] [Server thread/INFO]: [Min_Chulo: Successfully filled 384 block(s)]
+[01:12:10] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=0,y=55,z=-1408,dx=13,dy=8,dz=13]
+[01:12:10] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1408 12 62 -1396 minecraft:air
+[01:12:10] [Server thread/INFO]: [Min_Chulo: Successfully filled 1352 block(s)]
+[01:12:10] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1411 12 62 -1409 minecraft:air
+[01:12:10] [Server thread/INFO]: [Min_Chulo: Successfully filled 312 block(s)]
+[01:12:26] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[01:12:26] [Server thread/INFO]: Min_Chulo left the game
+[01:13:04] [User Authenticator #10/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[01:13:06] [Server thread/INFO]: Min_Chulo joined the game
+[01:13:06] [Server thread/INFO]: Min_Chulo[/127.170.144.67:52619] logged in with entity id 31808 at ([world]-36.78954882356628, 63.06919093721317, -1412.485123761913)
+[01:13:31] [Server thread/INFO]: Min_Chulo issued server command: /gamerule sendCommandFeedback
+[01:13:32] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-32,y=55,z=-1408,dx=16,dy=8,dz=13]
+[01:13:32] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1408 -17 62 -1396 minecraft:air
+[01:13:32] [Server thread/INFO]: [Min_Chulo: Successfully filled 1664 block(s)]
+[01:13:32] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1411 -17 62 -1409 minecraft:air
+[01:13:32] [Server thread/INFO]: [Min_Chulo: Successfully filled 384 block(s)]
+[01:13:32] [Server thread/INFO]: Min_Chulo issued server command: /fill -34 55 -1408 -33 62 -1396 minecraft:air
+[01:13:32] [Server thread/INFO]: [Min_Chulo: Successfully filled 208 block(s)]
+[01:13:32] [Server thread/INFO]: Min_Chulo issued server command: /fill -34 55 -1411 -33 62 -1409 minecraft:air
+[01:13:32] [Server thread/INFO]: [Min_Chulo: Successfully filled 48 block(s)]
+[01:13:32] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1408 -1 62 -1396 minecraft:air
+[01:13:32] [Server thread/INFO]: [Min_Chulo: Successfully filled 1664 block(s)]
+[01:13:32] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1411 -1 62 -1409 minecraft:air
+[01:13:32] [Server thread/INFO]: [Min_Chulo: Successfully filled 384 block(s)]
+[01:13:32] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1408 12 62 -1396 minecraft:air
+[01:13:32] [Server thread/INFO]: [Min_Chulo: Successfully filled 1352 block(s)]
+[01:13:32] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1411 12 62 -1409 minecraft:air
+[01:13:32] [Server thread/INFO]: [Min_Chulo: Successfully filled 312 block(s)]
+[01:13:44] [Server thread/INFO]: Min_Chulo issued server command: /gamerule sendCommandFeedback
+[01:13:45] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-32,y=55,z=-1408,dx=16,dy=8,dz=13]
+[01:13:45] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1408 -17 62 -1396 minecraft:air
+[01:13:45] [Server thread/INFO]: [Min_Chulo: Successfully filled 1664 block(s)]
+[01:13:45] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1411 -17 62 -1409 minecraft:air
+[01:13:45] [Server thread/INFO]: [Min_Chulo: Successfully filled 384 block(s)]
+[01:13:45] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1408 -1 62 -1396 minecraft:air
+[01:13:45] [Server thread/INFO]: [Min_Chulo: Successfully filled 1664 block(s)]
+[01:13:45] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1411 -1 62 -1409 minecraft:air
+[01:13:45] [Server thread/INFO]: [Min_Chulo: Successfully filled 384 block(s)]
+[01:13:45] [Server thread/INFO]: Min_Chulo issued server command: /fill -34 55 -1408 -33 62 -1396 minecraft:air
+[01:13:45] [Server thread/INFO]: [Min_Chulo: Successfully filled 208 block(s)]
+[01:13:45] [Server thread/INFO]: Min_Chulo issued server command: /fill -34 55 -1411 -33 62 -1409 minecraft:air
+[01:13:45] [Server thread/INFO]: [Min_Chulo: Successfully filled 48 block(s)]
+[01:13:45] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1408 12 62 -1396 minecraft:air
+[01:13:45] [Server thread/INFO]: [Min_Chulo: Successfully filled 1352 block(s)]
+[01:13:45] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1411 12 62 -1409 minecraft:air
+[01:13:45] [Server thread/INFO]: [Min_Chulo: Successfully filled 312 block(s)]
+[01:14:19] [Server thread/INFO]: Min_Chulo issued server command: /gamerule sendCommandFeedback
+[01:14:19] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-32,y=55,z=-1420,dx=16,dy=8,dz=12]
+[01:14:19] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1420 -17 62 -1409 minecraft:air
+[01:14:19] [Server thread/INFO]: [Min_Chulo: Successfully filled 1536 block(s)]
+[01:14:19] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-43,y=55,z=-1420,dx=11,dy=8,dz=12]
+[01:14:19] [Server thread/INFO]: Min_Chulo issued server command: /fill -43 55 -1420 -33 62 -1409 minecraft:air
+[01:14:19] [Server thread/INFO]: [Min_Chulo: Successfully filled 1056 block(s)]
+[01:14:19] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-32,y=55,z=-1408,dx=16,dy=8,dz=15]
+[01:14:19] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1408 -17 62 -1394 minecraft:air
+[01:14:19] [Server thread/INFO]: [Min_Chulo: Successfully filled 1920 block(s)]
+[01:14:19] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-43,y=55,z=-1408,dx=11,dy=8,dz=15]
+[01:14:19] [Server thread/INFO]: Min_Chulo issued server command: /fill -43 55 -1408 -33 62 -1394 minecraft:air
+[01:14:19] [Server thread/INFO]: [Min_Chulo: Successfully filled 1320 block(s)]
+[01:14:19] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-16,y=55,z=-1420,dx=16,dy=8,dz=12]
+[01:14:19] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1420 -1 62 -1409 minecraft:air
+[01:14:19] [Server thread/INFO]: [Min_Chulo: Successfully filled 1536 block(s)]
+[01:14:19] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1408 -1 62 -1394 minecraft:air
+[01:14:19] [Server thread/INFO]: [Min_Chulo: Successfully filled 1920 block(s)]
+[01:14:19] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=0,y=55,z=-1420,dx=16,dy=8,dz=12]
+[01:14:19] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1420 15 62 -1409 minecraft:air
+[01:14:19] [Server thread/INFO]: [Min_Chulo: Successfully filled 1536 block(s)]
+[01:14:19] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1408 15 62 -1394 minecraft:air
+[01:14:19] [Server thread/INFO]: [Min_Chulo: Successfully filled 1920 block(s)]
+[01:14:19] [Server thread/INFO]: Min_Chulo issued server command: /fill 16 55 -1420 17 62 -1409 minecraft:air
+[01:14:19] [Server thread/INFO]: [Min_Chulo: Successfully filled 192 block(s)]
+[01:14:19] [Server thread/INFO]: Min_Chulo issued server command: /fill 16 55 -1408 17 62 -1394 minecraft:air
+[01:14:19] [Server thread/INFO]: [Min_Chulo: Successfully filled 240 block(s)]
+[01:14:35] [Server thread/INFO]: Min_Chulo issued server command: /gamerule sendCommandFeedback
+[01:14:35] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-32,y=55,z=-1420,dx=16,dy=8,dz=12]
+[01:14:35] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1420 -17 62 -1409 minecraft:air
+[01:14:35] [Server thread/INFO]: [Min_Chulo: Successfully filled 1536 block(s)]
+[01:14:35] [Server thread/INFO]: Min_Chulo issued server command: /fill -43 55 -1420 -33 62 -1409 minecraft:air
+[01:14:35] [Server thread/INFO]: [Min_Chulo: Successfully filled 1056 block(s)]
+[01:14:35] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-32,y=55,z=-1408,dx=16,dy=8,dz=15]
+[01:14:35] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1408 -17 62 -1394 minecraft:air
+[01:14:35] [Server thread/INFO]: [Min_Chulo: Successfully filled 1920 block(s)]
+[01:14:35] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-43,y=55,z=-1408,dx=11,dy=8,dz=15]
+[01:14:35] [Server thread/INFO]: Min_Chulo issued server command: /fill -43 55 -1408 -33 62 -1394 minecraft:air
+[01:14:35] [Server thread/INFO]: [Min_Chulo: Successfully filled 1320 block(s)]
+[01:14:35] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1420 -1 62 -1409 minecraft:air
+[01:14:35] [Server thread/INFO]: [Min_Chulo: Successfully filled 1536 block(s)]
+[01:14:35] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1408 -1 62 -1394 minecraft:air
+[01:14:35] [Server thread/INFO]: [Min_Chulo: Successfully filled 1920 block(s)]
+[01:14:35] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1420 15 62 -1409 minecraft:air
+[01:14:35] [Server thread/INFO]: [Min_Chulo: Successfully filled 1536 block(s)]
+[01:14:35] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1408 15 62 -1394 minecraft:air
+[01:14:35] [Server thread/INFO]: [Min_Chulo: Successfully filled 1920 block(s)]
+[01:14:35] [Server thread/INFO]: Min_Chulo issued server command: /fill 16 55 -1420 17 62 -1409 minecraft:air
+[01:14:35] [Server thread/INFO]: [Min_Chulo: Successfully filled 192 block(s)]
+[01:14:35] [Server thread/INFO]: Min_Chulo issued server command: /fill 16 55 -1408 17 62 -1394 minecraft:air
+[01:14:35] [Server thread/INFO]: [Min_Chulo: Successfully filled 240 block(s)]
+[01:14:38] [Server thread/INFO]: Min_Chulo issued server command: /gamerule sendCommandFeedback
+[01:14:38] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1420 -17 62 -1409 minecraft:air
+[01:14:38] [Server thread/INFO]: [Min_Chulo: Successfully filled 1536 block(s)]
+[01:14:38] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-43,y=55,z=-1420,dx=11,dy=8,dz=12]
+[01:14:38] [Server thread/INFO]: Min_Chulo issued server command: /fill -43 55 -1420 -33 62 -1409 minecraft:air
+[01:14:38] [Server thread/INFO]: [Min_Chulo: Successfully filled 1056 block(s)]
+[01:14:38] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-32,y=55,z=-1408,dx=16,dy=8,dz=15]
+[01:14:38] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1408 -17 62 -1394 minecraft:air
+[01:14:38] [Server thread/INFO]: [Min_Chulo: Successfully filled 1680 block(s)]
+[01:14:38] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-43,y=55,z=-1408,dx=11,dy=8,dz=15]
+[01:14:38] [Server thread/INFO]: Min_Chulo issued server command: /fill -43 55 -1408 -33 62 -1394 minecraft:air
+[01:14:38] [Server thread/INFO]: [Min_Chulo: Successfully filled 1320 block(s)]
+[01:14:38] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1420 -1 62 -1409 minecraft:air
+[01:14:38] [Server thread/INFO]: [Min_Chulo: Successfully filled 1536 block(s)]
+[01:14:38] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1408 -1 62 -1394 minecraft:air
+[01:14:38] [Server thread/INFO]: [Min_Chulo: Successfully filled 1514 block(s)]
+[01:14:38] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1420 15 62 -1409 minecraft:air
+[01:14:38] [Server thread/INFO]: [Min_Chulo: Successfully filled 1536 block(s)]
+[01:14:38] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1408 15 62 -1394 minecraft:air
+[01:14:38] [Server thread/INFO]: [Min_Chulo: Successfully filled 842 block(s)]
+[01:14:38] [Server thread/INFO]: Min_Chulo issued server command: /fill 16 55 -1420 17 62 -1409 minecraft:air
+[01:14:38] [Server thread/INFO]: [Min_Chulo: Successfully filled 192 block(s)]
+[01:14:38] [Server thread/INFO]: Min_Chulo issued server command: /fill 16 55 -1408 17 62 -1394 minecraft:air
+[01:14:38] [Server thread/INFO]: [Min_Chulo: Successfully filled 205 block(s)]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /gamerule sendCommandFeedback
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /fill -43 55 -1392 -33 62 -1391 minecraft:air
+[01:15:01] [Server thread/INFO]: [Min_Chulo: Successfully filled 176 block(s)]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1392 -17 62 -1391 minecraft:air
+[01:15:01] [Server thread/INFO]: [Min_Chulo: Successfully filled 256 block(s)]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /fill -43 55 -1408 -33 62 -1393 minecraft:air
+[01:15:01] [Server thread/INFO]: [Min_Chulo: Successfully filled 1408 block(s)]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-32,y=55,z=-1408,dx=16,dy=8,dz=16]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1408 -17 62 -1393 minecraft:air
+[01:15:01] [Server thread/INFO]: [Min_Chulo: Successfully filled 2048 block(s)]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1392 -1 62 -1391 minecraft:air
+[01:15:01] [Server thread/INFO]: [Min_Chulo: Successfully filled 256 block(s)]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-43,y=55,z=-1420,dx=11,dy=8,dz=12]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /fill -43 55 -1420 -33 62 -1409 minecraft:air
+[01:15:01] [Server thread/INFO]: [Min_Chulo: Successfully filled 1056 block(s)]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-16,y=55,z=-1408,dx=16,dy=8,dz=16]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1408 -1 62 -1393 minecraft:air
+[01:15:01] [Server thread/INFO]: [Min_Chulo: Successfully filled 2048 block(s)]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-32,y=55,z=-1420,dx=16,dy=8,dz=12]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1420 -17 62 -1409 minecraft:air
+[01:15:01] [Server thread/INFO]: [Min_Chulo: Successfully filled 1536 block(s)]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-16,y=55,z=-1420,dx=16,dy=8,dz=12]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1420 -1 62 -1409 minecraft:air
+[01:15:01] [Server thread/INFO]: [Min_Chulo: Successfully filled 1536 block(s)]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1392 15 62 -1391 minecraft:air
+[01:15:01] [Server thread/INFO]: [Min_Chulo: Successfully filled 256 block(s)]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1408 15 62 -1393 minecraft:air
+[01:15:01] [Server thread/INFO]: [Min_Chulo: Successfully filled 2048 block(s)]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1420 15 62 -1409 minecraft:air
+[01:15:01] [Server thread/INFO]: [Min_Chulo: Successfully filled 1536 block(s)]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /fill 16 55 -1392 17 62 -1391 minecraft:air
+[01:15:01] [Server thread/INFO]: [Min_Chulo: Successfully filled 32 block(s)]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /fill 16 55 -1408 17 62 -1393 minecraft:air
+[01:15:01] [Server thread/INFO]: [Min_Chulo: Successfully filled 256 block(s)]
+[01:15:01] [Server thread/INFO]: Min_Chulo issued server command: /fill 16 55 -1420 17 62 -1409 minecraft:air
+[01:15:01] [Server thread/INFO]: [Min_Chulo: Successfully filled 192 block(s)]
+[01:15:30] [Server thread/INFO]: Min_Chulo issued server command: /gamerule sendCommandFeedback
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-43,y=55,z=-1408,dx=11,dy=8,dz=16]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /fill -43 55 -1408 -33 62 -1393 minecraft:air
+[01:15:31] [Server thread/INFO]: [Min_Chulo: Successfully filled 1408 block(s)]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-32,y=55,z=-1408,dx=16,dy=8,dz=16]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1408 -17 62 -1393 minecraft:air
+[01:15:31] [Server thread/INFO]: [Min_Chulo: Successfully filled 2048 block(s)]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-43,y=55,z=-1420,dx=11,dy=8,dz=12]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /fill -43 55 -1420 -33 62 -1409 minecraft:air
+[01:15:31] [Server thread/INFO]: [Min_Chulo: Successfully filled 1056 block(s)]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-32,y=55,z=-1420,dx=16,dy=8,dz=12]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1420 -17 62 -1409 minecraft:air
+[01:15:31] [Server thread/INFO]: [Min_Chulo: Successfully filled 1536 block(s)]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-43,y=55,z=-1392,dx=11,dy=8,dz=2]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /fill -43 55 -1392 -33 62 -1391 minecraft:air
+[01:15:31] [Server thread/INFO]: [Min_Chulo: Successfully filled 176 block(s)]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1392 -17 62 -1391 minecraft:air
+[01:15:31] [Server thread/INFO]: [Min_Chulo: Successfully filled 256 block(s)]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-16,y=55,z=-1408,dx=16,dy=8,dz=16]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1408 -1 62 -1393 minecraft:air
+[01:15:31] [Server thread/INFO]: [Min_Chulo: Successfully filled 2048 block(s)]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-16,y=55,z=-1420,dx=16,dy=8,dz=12]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1420 -1 62 -1409 minecraft:air
+[01:15:31] [Server thread/INFO]: [Min_Chulo: Successfully filled 1536 block(s)]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1392 -1 62 -1391 minecraft:air
+[01:15:31] [Server thread/INFO]: [Min_Chulo: Successfully filled 256 block(s)]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1408 15 62 -1393 minecraft:air
+[01:15:31] [Server thread/INFO]: [Min_Chulo: Successfully filled 2048 block(s)]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1420 15 62 -1409 minecraft:air
+[01:15:31] [Server thread/INFO]: [Min_Chulo: Successfully filled 1536 block(s)]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1392 15 62 -1391 minecraft:air
+[01:15:31] [Server thread/INFO]: [Min_Chulo: Successfully filled 256 block(s)]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /fill 16 55 -1408 17 62 -1393 minecraft:air
+[01:15:31] [Server thread/INFO]: [Min_Chulo: Successfully filled 256 block(s)]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /fill 16 55 -1420 17 62 -1409 minecraft:air
+[01:15:31] [Server thread/INFO]: [Min_Chulo: Successfully filled 192 block(s)]
+[01:15:31] [Server thread/INFO]: Min_Chulo issued server command: /fill 16 55 -1392 17 62 -1391 minecraft:air
+[01:15:31] [Server thread/INFO]: [Min_Chulo: Successfully filled 32 block(s)]
+[01:15:42] [Server thread/INFO]: Min_Chulo issued server command: /tick freeze
+[01:15:42] [Server thread/INFO]: [Min_Chulo: The game is frozen]
+[01:15:44] [Server thread/INFO]: Min_Chulo issued server command: /gamerule sendCommandFeedback
+[01:15:44] [Server thread/INFO]: Min_Chulo issued server command: /fill -43 55 -1408 -33 62 -1393 minecraft:air
+[01:15:44] [Server thread/INFO]: [Min_Chulo: Successfully filled 1408 block(s)]
+[01:15:44] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1408 -17 62 -1393 minecraft:air
+[01:15:44] [Server thread/INFO]: [Min_Chulo: Successfully filled 2048 block(s)]
+[01:15:44] [Server thread/INFO]: Min_Chulo issued server command: /fill -43 55 -1420 -33 62 -1409 minecraft:air
+[01:15:44] [Server thread/INFO]: [Min_Chulo: Successfully filled 1056 block(s)]
+[01:15:44] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1420 -17 62 -1409 minecraft:air
+[01:15:44] [Server thread/INFO]: [Min_Chulo: Successfully filled 1536 block(s)]
+[01:15:44] [Server thread/INFO]: Min_Chulo issued server command: /fill -43 55 -1392 -33 62 -1391 minecraft:air
+[01:15:44] [Server thread/INFO]: [Min_Chulo: Successfully filled 176 block(s)]
+[01:15:44] [Server thread/INFO]: Min_Chulo issued server command: /fill -32 55 -1392 -17 62 -1391 minecraft:air
+[01:15:44] [Server thread/INFO]: [Min_Chulo: Successfully filled 256 block(s)]
+[01:15:44] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-16,y=55,z=-1408,dx=16,dy=8,dz=16]
+[01:15:44] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1408 -1 62 -1393 minecraft:air
+[01:15:45] [Server thread/INFO]: [Min_Chulo: Successfully filled 2048 block(s)]
+[01:15:45] [Server thread/INFO]: Min_Chulo issued server command: /kill @e[type=!player,x=-16,y=55,z=-1420,dx=16,dy=8,dz=12]
+[01:15:45] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1420 -1 62 -1409 minecraft:air
+[01:15:45] [Server thread/INFO]: [Min_Chulo: Successfully filled 1536 block(s)]
+[01:15:45] [Server thread/INFO]: Min_Chulo issued server command: /fill -16 55 -1392 -1 62 -1391 minecraft:air
+[01:15:45] [Server thread/INFO]: [Min_Chulo: Successfully filled 256 block(s)]
+[01:15:45] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1408 15 62 -1393 minecraft:air
+[01:15:45] [Server thread/INFO]: [Min_Chulo: Successfully filled 2024 block(s)]
+[01:15:45] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1420 15 62 -1409 minecraft:air
+[01:15:45] [Server thread/INFO]: [Min_Chulo: Successfully filled 1536 block(s)]
+[01:15:45] [Server thread/INFO]: Min_Chulo issued server command: /fill 0 55 -1392 15 62 -1391 minecraft:air
+[01:15:45] [Server thread/INFO]: [Min_Chulo: Successfully filled 234 block(s)]
+[01:15:45] [Server thread/INFO]: Min_Chulo issued server command: /fill 16 55 -1408 17 62 -1393 minecraft:air
+[01:15:45] [Server thread/INFO]: [Min_Chulo: Successfully filled 237 block(s)]
+[01:15:45] [Server thread/INFO]: Min_Chulo issued server command: /fill 16 55 -1420 17 62 -1409 minecraft:air
+[01:15:45] [Server thread/INFO]: [Min_Chulo: Successfully filled 192 block(s)]
+[01:15:45] [Server thread/INFO]: Min_Chulo issued server command: /fill 16 55 -1392 17 62 -1391 minecraft:air
+[01:15:45] [Server thread/INFO]: [Min_Chulo: Successfully filled 25 block(s)]
+[01:21:31] [Server thread/INFO]: Min_Chulo issued server command: /gamerule sendCommandFeedback
+[01:21:32] [Server thread/INFO]: Min_Chulo issued server command: /fill 18 56 -1408 22 62 -1399 minecraft:air
+[01:21:32] [Server thread/INFO]: [Min_Chulo: Successfully filled 350 block(s)]
+[01:21:32] [Server thread/INFO]: Min_Chulo issued server command: /fill 18 56 -1416 22 62 -1409 minecraft:air
+[01:21:32] [Server thread/INFO]: [Min_Chulo: Successfully filled 280 block(s)]
