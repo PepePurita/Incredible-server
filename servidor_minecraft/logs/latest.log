@@ -11827,3 +11827,5 @@
 [01:36:29] [Server thread/INFO]: [Min_Chulo: The game is running normally]
 [01:41:21] [Server thread/INFO]: Min_Chulo issued server command: /effect give Min_Chulo minecraft:night_vision infinite 1
 [01:41:21] [Server thread/INFO]: [Min_Chulo: Applied effect Night Vision to Min_Chulo]
+[01:55:00] [Server thread/INFO]: Min_Chulo lost connection: Disconnected
+[01:55:00] [Server thread/INFO]: Min_Chulo left the game
