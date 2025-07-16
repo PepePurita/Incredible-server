@@ -149,3 +149,12 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [17:40:34] [Server thread/INFO]: [Min_Chulo: Removed every effect from Min_Chulo]
 [17:41:18] [Server thread/INFO]: Min_Chulo lost connection: Timed out
 [17:41:18] [Server thread/INFO]: Min_Chulo left the game
+[17:41:43] [User Authenticator #1/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[17:41:45] [Server thread/INFO]: Min_Chulo joined the game
+[17:41:45] [Server thread/INFO]: Min_Chulo[/127.183.65.216:55903] logged in with entity id 961 at ([world]-208.95389300109406, 63.0, -1386.699999988079)
+[17:46:05] [Server thread/INFO]: Min_Chulo issued server command: /gamemode survival
+[17:48:30] [Server thread/INFO]: Min_Chulo lost connection: Timed out
+[17:48:30] [Server thread/INFO]: Min_Chulo left the game
+[17:48:57] [User Authenticator #2/INFO]: UUID of player Min_Chulo is c64d5450-ef6c-3309-ac03-cff3f3f0edaf
+[17:49:04] [Server thread/INFO]: Min_Chulo joined the game
+[17:49:04] [Server thread/INFO]: Min_Chulo[/127.183.65.216:33357] logged in with entity id 4031 at ([world]-80.99401834373036, 62.69294447730451, -1369.9203056935135)
