@@ -163,3 +163,4 @@ Caused by: java.lang.UnsupportedClassVersionError: me/antonschouten/sst/Main has
 [18:04:10] [Server thread/INFO]: Min_Chulo issued server command: /ec
 [18:05:33] [Server thread/INFO]: Min_Chulo issued server command: /home
 [18:10:02] [Server thread/INFO]: Min_Chulo issued server command: /home
+[18:14:55] [Server thread/INFO]: Min_Chulo issued server command: /trash
